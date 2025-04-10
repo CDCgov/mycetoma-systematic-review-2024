@@ -1,12 +1,6 @@
-# CDCgov GitHub Organization Open Source Project Template
-
-**Template for clearance: This project serves as a template to aid projects in starting up and moving through clearance procedures. To start, create a new repository and implement the required [open practices](open_practices.md), train on and agree to adhere to the organization's [rules of behavior](rules_of_behavior.md), and [send a request through the create repo form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) using language from this template as a Guide.**
+# Global Sociodemographic, Clinical, and Epidemiological Profiling of Patients with Mycetoma: A systematic review
 
 **General disclaimer** This repository was created for use by CDC programs to collaborate on public health related projects in support of the [CDC mission](https://www.cdc.gov/about/cdc/#cdc_about_cio_mission-our-mission).  GitHub is not hosted by the CDC, but is a third party website used by CDC and its partners to share information and collaborate on software. CDC use of GitHub does not imply an endorsement of any one particular service, product, or enterprise. 
-
-## Access Request, Repo Creation Request
-
-* [CDC GitHub Open Project Request Form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUNk43NzMwODJTRzA4NFpCUk1RRU83RTFNVi4u) _[Requires a CDC Office365 login, if you do not have a CDC Office365 please ask a friend who does to submit the request on your behalf. If you're looking for access to the CDCEnt private organization, please use the [GitHub Enterprise Cloud Access Request form](https://forms.office.com/Pages/ResponsePage.aspx?id=aQjnnNtg_USr6NJ2cHf8j44WSiOI6uNOvdWse4I-C2NUQjVJVDlKS1c0SlhQSUxLNVBaOEZCNUczVS4u).]_
 
 ## Related documents
 
@@ -19,7 +13,26 @@
 
 ## Overview
 
-Describe the purpose of your project. Add additional sections as necessary to help collaborators and potential collaborators understand and use your project.
+This repository houses code for analyses for a paper exploring the global sociodemographic and clinical characteristics of patients affected by mycetoma and characteristing the geographic patterns of causative organisms of mycetoma. This manuscript is submitted to PloS Neglected Tropical Diseases as Salah et al, and is the product of a collaboration between the Mycetoma Research Center in Sudan and the United States Centers for Disease Control and Prevention. 
+
+All analyses were done in R 4.0.0. Code written by Michelle Fearon Scales, [@mlfearon](https://github.com/mlfearon), utg5@cdc.gov, (CDC/NCEZID/DFWED/MDB).
+
+### Source Data
+ - All data are stored in the data folders:
+   - [data_input](https://github.com/CDCgov/mycetoma-systematic-review-2024/tree/main/data_input): These files are the raw data collection for the systematic review from the selected manuscripts included in the study. Characteristics assessed include age, sex, educational level, residence, occupation, comorbidities, disease severity, involved body regions, disease outcomes, and treatment received. The number of patients with mycetoma for whom the causative organism was identified to species, genus, or aetiology were recorded for each country from the manuscripts.
+   - [data_clean](https://github.com/CDCgov/mycetoma-systematic-review-2024/tree/main/data_clean): These are the cleaned data files after being run through the [data_cleaning.R](https://github.com/CDCgov/mycetoma-systematic-review-2024/blob/main/R/data_cleaning.R) script. This script does some light processing of the data to generate additional versions of the data that are used in the downstream calculations and figures.
+
+### R code
+ - All R code for this project is included in the R folder and should be used in the following order:
+   - [data_cleaning.R](https://github.com/CDCgov/mycetoma-systematic-review-2024/blob/main/R/data_cleaning.R): Reads in the raw data from [data_input](https://github.com/CDCgov/mycetoma-systematic-review-2024/tree/main/data_input) and processes it to produce the cleaned data files in [data_clean](https://github.com/CDCgov/mycetoma-systematic-review-2024/tree/main/data_clean).
+     - [functions.R](https://github.com/CDCgov/mycetoma-systematic-review-2024/blob/main/R/functions.R): This script is sourced at the beginning of the data_cleaning.R script to use functions developed to read in and simultaneously clean all imported data files.
+   - [analysis_figures.R](https://github.com/CDCgov/mycetoma-systematic-review-2024/blob/main/R/analysis_figures.R): Reads in the cleaned data files from [data_clean](https://github.com/CDCgov/mycetoma-systematic-review-2024/tree/main/data_clean) and calculates all the summary statistics that are save in data_summary such as the mean percent and range of mycetoma patients reported with each characteristic. This script also produces all the figures showing boxplots and raw data points for the patients reported with each characteristic.
+   - [quality_score_traffic_light_figure.R](https://github.com/CDCgov/mycetoma-systematic-review-2024/blob/main/R/quality_score_traffic_light_fig.R): This script sets up the `Quality_scores_clean.csv` data file to produce Figure 2 in the manuscript that shows the proportion of studies that have each quality score.
+   - [causative_org_figures.R](https://github.com/CDCgov/mycetoma-systematic-review-2024/blob/main/R/causative_org_figures.R): This script produces two global maps of the causative organisms for mycetoma using the `Causative_Organisms_Taxonomy_clean.csv` data file. The first map catagorizes causative organisms by aetiology (i.e., fungal vs bacterial origin), and the second categorizes causative organisms by genus (Figures 5 and 6, respectively in the manuscript).
+
+### Outputs
+ - The output from the scripts are saved in two additional data folders: 
+   - [data_summary](https://github.com/CDCgov/mycetoma-systematic-review-2024/tree/main/data_summary): These are the results from the summary statistics for the percent of patients reported with each sociodemographic and clinical characteristic, including the mean, standard deviation, range and the total number of studies that reported that characteristic. These results are shown in a table in the manuscript.
   
 ## Public Domain Standard Notice
 This repository constitutes a work of the United States Government and is not
