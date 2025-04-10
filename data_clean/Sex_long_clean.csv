@@ -1,0 +1,205 @@
+"","ID","Study_meta","Total_N","Sex","n","percent"
+"1","ID 2267","Ali, Sudan, 2022",160,"Male",152,95
+"2","ID 2267","Ali, Sudan, 2022",160,"Female",8,5
+"3","ID 2267","Ali, Sudan, 2022",160,"Not_reported",0,0
+"4","ID 801","Aounallah, Tunisia, 2023",18,"Male",12,66.6666666666667
+"5","ID 801","Aounallah, Tunisia, 2023",18,"Female",6,33.3333333333333
+"6","ID 801","Aounallah, Tunisia, 2023",18,"Not_reported",0,0
+"7","ID 509","Kamalam, India, 1976",5,"Male",4,80
+"8","ID 509","Kamalam, India, 1976",5,"Female",1,20
+"9","ID 509","Kamalam, India, 1976",5,"Not_reported",0,0
+"10","ID 5105","Abbas, Sudan, 2018",300,"Male",228,76
+"11","ID 5105","Abbas, Sudan, 2018",300,"Female",72,24
+"12","ID 5105","Abbas, Sudan, 2018",300,"Not_reported",0,0
+"13","ID 4075","Abd El Bagi, Sudan, 2003",516,"Male",399,77.3255813953488
+"14","ID 4075","Abd El Bagi, Sudan, 2003",516,"Female",117,22.6744186046512
+"15","ID 4075","Abd El Bagi, Sudan, 2003",516,"Not_reported",0,0
+"16","ID 1249","Aboudi, Sudan, 2017",100,"Male",76,76
+"17","ID 1249","Aboudi, Sudan, 2017",100,"Female",24,24
+"18","ID 1249","Aboudi, Sudan, 2017",100,"Not_reported",0,0
+"19","ID 3734","Adoubryn, West Africa, 2009",46,"Male",36,78.2608695652174
+"20","ID 3734","Adoubryn, West Africa, 2009",46,"Female",10,21.7391304347826
+"21","ID 3734","Adoubryn, West Africa, 2009",46,"Not_reported",0,0
+"22","ID 5774","Ansari, India, 2023",38,"Male",27,71.0526315789474
+"23","ID 5774","Ansari, India, 2023",38,"Female",11,28.9473684210526
+"24","ID 5774","Ansari, India, 2023",38,"Not_reported",0,0
+"25","ID 456","Yousif, Sudan, 2009",230,"Male",182,79.1304347826087
+"26","ID 456","Yousif, Sudan, 2009",230,"Female",48,20.8695652173913
+"27","ID 456","Yousif, Sudan, 2009",230,"Not_reported",0,0
+"28","ID 1892","Bakhiet, Sudan, 2018",1032,"Male",771,74.7093023255814
+"29","ID 1892","Bakhiet, Sudan, 2018",1032,"Female",261,25.2906976744186
+"30","ID 1892","Bakhiet, Sudan, 2018",1032,"Not_reported",0,0
+"31","ID 4018","Balabanoff, Bulgaria, 1998",18,"Male",12,66.6666666666667
+"32","ID 4018","Balabanoff, Bulgaria, 1998",18,"Female",4,22.2222222222222
+"33","ID 4018","Balabanoff, Bulgaria, 1998",18,"Not_reported",2,11.1111111111111
+"34","ID 5273","Basher, Sudan, 2021",50,"Male",38,76
+"35","ID 5273","Basher, Sudan, 2021",50,"Female",12,24
+"36","ID 5273","Basher, Sudan, 2021",50,"Not_reported",0,0
+"37","ID 1203","Batalla, Morocco, 2011",12,"Male",12,100
+"38","ID 1203","Batalla, Morocco, 2011",12,"Female",0,0
+"39","ID 1203","Batalla, Morocco, 2011",12,"Not_reported",0,0
+"40","ID 770","Bocarro, India, 1893",100,"Male",92,92
+"41","ID 770","Bocarro, India, 1893",100,"Female",8,8
+"42","ID 770","Bocarro, India, 1893",100,"Not_reported",0,0
+"43","ID 3905","Bonifaz, Mexico, 2014",482,"Male",358,74.2738589211618
+"44","ID 3905","Bonifaz, Mexico, 2014",482,"Female",124,25.7261410788382
+"45","ID 3905","Bonifaz, Mexico, 2014",482,"Not_reported",0,0
+"46","ID 5603","Castro, Brazil, 2008",27,"Male",20,74.0740740740741
+"47","ID 5603","Castro, Brazil, 2008",27,"Female",7,25.9259259259259
+"48","ID 5603","Castro, Brazil, 2008",27,"Not_reported",0,0
+"49","ID 3081","Castro, Brazil, 1992",41,"Male",36,87.8048780487805
+"50","ID 3081","Castro, Brazil, 1992",41,"Female",5,12.1951219512195
+"51","ID 3081","Castro, Brazil, 1992",41,"Not_reported",0,0
+"52","ID 5771","Colom, Kenya, 2023",58,"Male",42,72.4137931034483
+"53","ID 5771","Colom, Kenya, 2023",58,"Female",15,25.8620689655172
+"54","ID 5771","Colom, Kenya, 2023",58,"Not_reported",1,1.72413793103448
+"55","ID 136","Convit, Venezuela, 1959",37,"Male",30,81.0810810810811
+"56","ID 136","Convit, Venezuela, 1959",37,"Female",7,18.9189189189189
+"57","ID 136","Convit, Venezuela, 1959",37,"Not_reported",0,0
+"58","ID 2893","Correa, Mexico, 2018",174,"Male",123,70.6896551724138
+"59","ID 2893","Correa, Mexico, 2018",174,"Female",37,21.264367816092
+"60","ID 2893","Correa, Mexico, 2018",174,"Not_reported",14,8.04597701149425
+"61","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Male",12,60
+"62","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Female",8,40
+"63","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Not_reported",0,0
+"64","ID 5796","Lewall, Saudi Arabia, 1985",30,"Male",28,93.3333333333333
+"65","ID 5796","Lewall, Saudi Arabia, 1985",30,"Female",2,6.66666666666667
+"66","ID 5796","Lewall, Saudi Arabia, 1985",30,"Not_reported",0,0
+"67","ID 3927","Daoud, Tunisia, 2005",13,"Male",6,46.1538461538462
+"68","ID 3927","Daoud, Tunisia, 2005",13,"Female",7,53.8461538461538
+"69","ID 3927","Daoud, Tunisia, 2005",13,"Not_reported",0,0
+"70","ID 3486","Darre ́, Togo, 2018",33,"Male",20,60.6060606060606
+"71","ID 3486","Darre ́, Togo, 2018",33,"Female",13,39.3939393939394
+"72","ID 3486","Darre ́, Togo, 2018",33,"Not_reported",0,0
+"73","ID 3886","Dharmshale, India, 2015",23,"Male",18,78.2608695652174
+"74","ID 3886","Dharmshale, India, 2015",23,"Female",5,21.7391304347826
+"75","ID 3886","Dharmshale, India, 2015",23,"Not_reported",0,0
+"76","ID 1887","El Hag, Sudan, 1994",14,"Male",13,92.8571428571429
+"77","ID 1887","El Hag, Sudan, 1994",14,"Female",1,7.14285714285714
+"78","ID 1887","El Hag, Sudan, 1994",14,"Not_reported",0,0
+"79","ID 4072","EL Shamy, Sudan, 2012",42,"Male",32,76.1904761904762
+"80","ID 4072","EL Shamy, Sudan, 2012",42,"Female",10,23.8095238095238
+"81","ID 4072","EL Shamy, Sudan, 2012",42,"Not_reported",0,0
+"82","ID 5776","Elgallali, Tunisia, 2010",15,"Male",6,40
+"83","ID 5776","Elgallali, Tunisia, 2010",15,"Female",9,60
+"84","ID 5776","Elgallali, Tunisia, 2010",15,"Not_reported",0,0
+"85","ID 963","Estrada-Castañón, Mexico, 2019",113,"Male",85,75.2212389380531
+"86","ID 963","Estrada-Castañón, Mexico, 2019",113,"Female",28,24.7787610619469
+"87","ID 963","Estrada-Castañón, Mexico, 2019",113,"Not_reported",0,0
+"88","ID 445","Fahal, Sudan, 2014",33,"Male",16,48.4848484848485
+"89","ID 445","Fahal, Sudan, 2014",33,"Female",17,51.5151515151515
+"90","ID 445","Fahal, Sudan, 2014",33,"Not_reported",0,0
+"91","ID 5253","Fahal, Sudan, 2015",6792,"Male",5150,75.8244994110718
+"92","ID 5253","Fahal, Sudan, 2015",6792,"Female",1642,24.1755005889282
+"93","ID 5253","Fahal, Sudan, 2015",6792,"Not_reported",0,0
+"94","ID 3805","Ganawa, Sudan, 2021",594,"Male",463,77.9461279461279
+"95","ID 3805","Ganawa, Sudan, 2021",594,"Female",131,22.0538720538721
+"96","ID 3805","Ganawa, Sudan, 2021",594,"Not_reported",0,0
+"97","ID 2396","Guimara ̃es, Brazil, 2003",40,"Male",31,77.5
+"98","ID 2396","Guimara ̃es, Brazil, 2003",40,"Female",9,22.5
+"99","ID 2396","Guimara ̃es, Brazil, 2003",40,"Not_reported",0,0
+"100","ID 3423","Hashemi, Iran, 2005",62,"Male",41,66.1290322580645
+"101","ID 3423","Hashemi, Iran, 2005",62,"Female",21,33.8709677419355
+"102","ID 3423","Hashemi, Iran, 2005",62,"Not_reported",0,0
+"103","ID 2183","Hassan, Sudan, 2022",359,"Male",174,48.4679665738162
+"104","ID 2183","Hassan, Sudan, 2022",359,"Female",185,51.5320334261838
+"105","ID 2183","Hassan, Sudan, 2022",359,"Not_reported",0,0
+"106","ID 5654","Hay, United Kingdom, 1982",43,"Male",32,74.4186046511628
+"107","ID 5654","Hay, United Kingdom, 1982",43,"Female",11,25.5813953488372
+"108","ID 5654","Hay, United Kingdom, 1982",43,"Not_reported",0,0
+"109","ID 5516","Kallel, Tunisia, 2004",13,"Male",9,69.2307692307692
+"110","ID 5516","Kallel, Tunisia, 2004",13,"Female",4,30.7692307692308
+"111","ID 5516","Kallel, Tunisia, 2004",13,"Not_reported",0,0
+"112","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Male",53,60.9195402298851
+"113","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Female",34,39.0804597701149
+"114","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Not_reported",0,0
+"115","ID 5783","Kaliswaran, India, 2003",25,"Male",19,76
+"116","ID 5783","Kaliswaran, India, 2003",25,"Female",6,24
+"117","ID 5783","Kaliswaran, India, 2003",25,"Not_reported",0,0
+"118","ID 510","Kébéa, Mauritania, 2021",87,"Male",65,74.7126436781609
+"119","ID 510","Kébéa, Mauritania, 2021",87,"Female",22,25.2873563218391
+"120","ID 510","Kébéa, Mauritania, 2021",87,"Not_reported",0,0
+"121","ID 951","Khatri, Yemen, 2002",70,"Male",53,75.7142857142857
+"122","ID 951","Khatri, Yemen, 2002",70,"Female",17,24.2857142857143
+"123","ID 951","Khatri, Yemen, 2002",70,"Not_reported",0,0
+"124","ID 3443","Khatri, Yemen, 2021",184,"Male",145,78.804347826087
+"125","ID 3443","Khatri, Yemen, 2021",184,"Female",39,21.195652173913
+"126","ID 3443","Khatri, Yemen, 2021",184,"Not_reported",0,0
+"127","ID 3501","Kizera, Uganda, 2020",249,"Male",141,56.6265060240964
+"128","ID 3501","Kizera, Uganda, 2020",249,"Female",108,43.3734939759036
+"129","ID 3501","Kizera, Uganda, 2020",249,"Not_reported",0,0
+"130","ID 5770","Kunna, Sudan, 2020",389,"Male",298,76.6066838046273
+"131","ID 5770","Kunna, Sudan, 2020",389,"Female",86,22.107969151671
+"132","ID 5770","Kunna, Sudan, 2020",389,"Not_reported",5,1.2853470437018
+"133","ID 1641","Lopez, Mexico, 2023",70,"Male",51,72.8571428571428
+"134","ID 1641","Lopez, Mexico, 2023",70,"Female",19,27.1428571428571
+"135","ID 1641","Lopez, Mexico, 2023",70,"Not_reported",0,0
+"136","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Male",2920,74.2435799644038
+"137","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Female",940,23.9003305364861
+"138","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Not_reported",73,1.85608949911009
+"139","ID 1648","Maiti, India, 2002",264,"Male",183,69.3181818181818
+"140","ID 1648","Maiti, India, 2002",264,"Female",81,30.6818181818182
+"141","ID 1648","Maiti, India, 2002",264,"Not_reported",0,0
+"142","ID 4290","Mallick, Brazil, 2021",12,"Male",7,58.3333333333333
+"143","ID 4290","Mallick, Brazil, 2021",12,"Female",5,41.6666666666667
+"144","ID 4290","Mallick, Brazil, 2021",12,"Not_reported",0,0
+"145","ID 1640","Maritinez, Mexico, 1992",2105,"Male",1579,75.0118764845606
+"146","ID 1640","Maritinez, Mexico, 1992",2105,"Female",496,23.562945368171
+"147","ID 1640","Maritinez, Mexico, 1992",2105,"Not_reported",30,1.42517814726841
+"148","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Male",34,94.4444444444444
+"149","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Female",2,5.55555555555556
+"150","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Not_reported",0,0
+"151","ID 3140","Mufti, Saudi Arabia, 2015",19,"Male",15,78.9473684210526
+"152","ID 3140","Mufti, Saudi Arabia, 2015",19,"Female",4,21.0526315789474
+"153","ID 3140","Mufti, Saudi Arabia, 2015",19,"Not_reported",0,0
+"154","ID 3554","Musa, Sudan, 2022",503,"Male",400,79.5228628230616
+"155","ID 3554","Musa, Sudan, 2022",503,"Female",103,20.4771371769384
+"156","ID 3554","Musa, Sudan, 2022",503,"Not_reported",0,0
+"157","ID 137","Ndiaye, Senegal, 2011",113,"Male",90,79.646017699115
+"158","ID 137","Ndiaye, Senegal, 2011",113,"Female",23,20.353982300885
+"159","ID 137","Ndiaye, Senegal, 2011",113,"Not_reported",0,0
+"160","ID 1689","Negroni, Argentina, 2006",76,"Male",49,64.4736842105263
+"161","ID 1689","Negroni, Argentina, 2006",76,"Female",27,35.5263157894737
+"162","ID 1689","Negroni, Argentina, 2006",76,"Not_reported",0,0
+"163","ID 2922","Negroni, Argentina, 1998",54,"Male",32,59.2592592592593
+"164","ID 2922","Negroni, Argentina, 1998",54,"Female",22,40.7407407407407
+"165","ID 2922","Negroni, Argentina, 1998",54,"Not_reported",0,0
+"166","ID 3458","Padhi, India, 2010",13,"Male",11,84.6153846153846
+"167","ID 3458","Padhi, India, 2010",13,"Female",2,15.3846153846154
+"168","ID 3458","Padhi, India, 2010",13,"Not_reported",0,0
+"169","ID 475","Azraga, Sudan, 2011",26,"Male",17,65.3846153846154
+"170","ID 475","Azraga, Sudan, 2011",26,"Female",9,34.6153846153846
+"171","ID 475","Azraga, Sudan, 2011",26,"Not_reported",0,0
+"172","ID 4716","Sampaio, Brazil, 2017",21,"Male",12,57.1428571428571
+"173","ID 4716","Sampaio, Brazil, 2017",21,"Female",9,42.8571428571429
+"174","ID 4716","Sampaio, Brazil, 2017",21,"Not_reported",0,0
+"175","ID 5780","Sarr, Senegal, 2015",44,"Male",34,77.2727272727273
+"176","ID 5780","Sarr, Senegal, 2015",44,"Female",10,22.7272727272727
+"177","ID 5780","Sarr, Senegal, 2015",44,"Not_reported",0,0
+"178","ID 3864","Sawatkar, India, 2019",11,"Male",8,72.7272727272727
+"179","ID 3864","Sawatkar, India, 2019",11,"Female",3,27.2727272727273
+"180","ID 3864","Sawatkar, India, 2019",11,"Not_reported",0,0
+"181","ID 2780","Sear, Venezuela, 2022",16,"Male",10,62.5
+"182","ID 2780","Sear, Venezuela, 2022",16,"Female",6,37.5
+"183","ID 2780","Sear, Venezuela, 2022",16,"Not_reported",0,0
+"184","ID 3494","Siblany, Saudi Arabia, 1998",36,"Male",30,83.3333333333333
+"185","ID 3494","Siblany, Saudi Arabia, 1998",36,"Female",6,16.6666666666667
+"186","ID 3494","Siblany, Saudi Arabia, 1998",36,"Not_reported",0,0
+"187","ID 5230","Siddig, Sudan, 2016",50,"Male",36,72
+"188","ID 5230","Siddig, Sudan, 2016",50,"Female",14,28
+"189","ID 5230","Siddig, Sudan, 2016",50,"Not_reported",0,0
+"190","ID 3340","Sow, Senegal, 2020",193,"Male",144,74.6113989637306
+"191","ID 3340","Sow, Senegal, 2020",193,"Female",49,25.3886010362694
+"192","ID 3340","Sow, Senegal, 2020",193,"Not_reported",0,0
+"193","ID 2678","Traore, Mali, 2021",19,"Male",11,57.8947368421053
+"194","ID 2678","Traore, Mali, 2021",19,"Female",8,42.1052631578947
+"195","ID 2678","Traore, Mali, 2021",19,"Not_reported",0,0
+"196","ID 4423","Venugopal, India, 1975",90,"Male",75,83.3333333333333
+"197","ID 4423","Venugopal, India, 1975",90,"Female",15,16.6666666666667
+"198","ID 4423","Venugopal, India, 1975",90,"Not_reported",0,0
+"199","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Male",21,91.304347826087
+"200","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Female",2,8.69565217391304
+"201","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Not_reported",0,0
+"202","ID 223","Zein, Sudan, 2012",1544,"Male",1198,77.5906735751295
+"203","ID 223","Zein, Sudan, 2012",1544,"Female",346,22.4093264248705
+"204","ID 223","Zein, Sudan, 2012",1544,"Not_reported",0,0

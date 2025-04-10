@@ -1,0 +1,210 @@
+"","ID","Study_meta","Total_N","Nationality","n","prop"
+"1","ID 801","A. Aounallah, Tunisia, 2023",18,"Indian",NA,NA
+"2","ID 801","A. Aounallah, Tunisia, 2023",18,"Bangladeshi",NA,NA
+"3","ID 801","A. Aounallah, Tunisia, 2023",18,"Saudi_Arabia",NA,NA
+"4","ID 801","A. Aounallah, Tunisia, 2023",18,"Yemeni",NA,NA
+"5","ID 801","A. Aounallah, Tunisia, 2023",18,"Sudanese",NA,NA
+"6","ID 801","A. Aounallah, Tunisia, 2023",18,"Tunisia",18,1
+"7","ID 801","A. Aounallah, Tunisia, 2023",18,"Moroccan",NA,NA
+"8","ID 801","A. Aounallah, Tunisia, 2023",18,"Mauritania",NA,NA
+"9","ID 801","A. Aounallah, Tunisia, 2023",18,"Somalin",NA,NA
+"10","ID 801","A. Aounallah, Tunisia, 2023",18,"Chadian",NA,NA
+"11","ID 801","A. Aounallah, Tunisia, 2023",18,"Mali",NA,NA
+"12","ID 801","A. Aounallah, Tunisia, 2023",18,"Ivorian",NA,NA
+"13","ID 801","A. Aounallah, Tunisia, 2023",18,"Senegalese",NA,NA
+"14","ID 801","A. Aounallah, Tunisia, 2023",18,"Burkina",NA,NA
+"15","ID 801","A. Aounallah, Tunisia, 2023",18,"Neger",NA,NA
+"16","ID 801","A. Aounallah, Tunisia, 2023",18,"Nigeria",NA,NA
+"17","ID 801","A. Aounallah, Tunisia, 2023",18,"Guinee",NA,NA
+"18","ID 801","A. Aounallah, Tunisia, 2023",18,"Benin",NA,NA
+"19","ID 801","A. Aounallah, Tunisia, 2023",18,"Not_reported",NA,NA
+"20","ID 3734","Adoubryn, West Africa, 2009",46,"Indian",NA,NA
+"21","ID 3734","Adoubryn, West Africa, 2009",46,"Bangladeshi",NA,NA
+"22","ID 3734","Adoubryn, West Africa, 2009",46,"Saudi_Arabia",NA,NA
+"23","ID 3734","Adoubryn, West Africa, 2009",46,"Yemeni",NA,NA
+"24","ID 3734","Adoubryn, West Africa, 2009",46,"Sudanese",NA,NA
+"25","ID 3734","Adoubryn, West Africa, 2009",46,"Tunisia",NA,NA
+"26","ID 3734","Adoubryn, West Africa, 2009",46,"Moroccan",NA,NA
+"27","ID 3734","Adoubryn, West Africa, 2009",46,"Mauritania",NA,NA
+"28","ID 3734","Adoubryn, West Africa, 2009",46,"Somalin",NA,NA
+"29","ID 3734","Adoubryn, West Africa, 2009",46,"Chadian",NA,NA
+"30","ID 3734","Adoubryn, West Africa, 2009",46,"Mali",12,0.260869565217391
+"31","ID 3734","Adoubryn, West Africa, 2009",46,"Ivorian",NA,NA
+"32","ID 3734","Adoubryn, West Africa, 2009",46,"Senegalese",3,0.0652173913043478
+"33","ID 3734","Adoubryn, West Africa, 2009",46,"Burkina",4,0.0869565217391304
+"34","ID 3734","Adoubryn, West Africa, 2009",46,"Neger",23,0.5
+"35","ID 3734","Adoubryn, West Africa, 2009",46,"Nigeria",1,0.0217391304347826
+"36","ID 3734","Adoubryn, West Africa, 2009",46,"Guinee",2,0.0434782608695652
+"37","ID 3734","Adoubryn, West Africa, 2009",46,"Benin",1,0.0217391304347826
+"38","ID 3734","Adoubryn, West Africa, 2009",46,"Not_reported",NA,NA
+"39","ID 1203","Batalla, Morocco, 2011",12,"Indian",NA,NA
+"40","ID 1203","Batalla, Morocco, 2011",12,"Bangladeshi",NA,NA
+"41","ID 1203","Batalla, Morocco, 2011",12,"Saudi_Arabia",NA,NA
+"42","ID 1203","Batalla, Morocco, 2011",12,"Yemeni",NA,NA
+"43","ID 1203","Batalla, Morocco, 2011",12,"Sudanese",NA,NA
+"44","ID 1203","Batalla, Morocco, 2011",12,"Tunisia",NA,NA
+"45","ID 1203","Batalla, Morocco, 2011",12,"Moroccan",11,0.916666666666667
+"46","ID 1203","Batalla, Morocco, 2011",12,"Mauritania",NA,NA
+"47","ID 1203","Batalla, Morocco, 2011",12,"Somalin",NA,NA
+"48","ID 1203","Batalla, Morocco, 2011",12,"Chadian",NA,NA
+"49","ID 1203","Batalla, Morocco, 2011",12,"Mali",NA,NA
+"50","ID 1203","Batalla, Morocco, 2011",12,"Ivorian",NA,NA
+"51","ID 1203","Batalla, Morocco, 2011",12,"Senegalese",1,0.0833333333333333
+"52","ID 1203","Batalla, Morocco, 2011",12,"Burkina",NA,NA
+"53","ID 1203","Batalla, Morocco, 2011",12,"Neger",NA,NA
+"54","ID 1203","Batalla, Morocco, 2011",12,"Nigeria",NA,NA
+"55","ID 1203","Batalla, Morocco, 2011",12,"Guinee",NA,NA
+"56","ID 1203","Batalla, Morocco, 2011",12,"Benin",NA,NA
+"57","ID 1203","Batalla, Morocco, 2011",12,"Not_reported",NA,NA
+"58","ID 3927","Daoud, Tunisia, 2005",13,"Indian",NA,NA
+"59","ID 3927","Daoud, Tunisia, 2005",13,"Bangladeshi",NA,NA
+"60","ID 3927","Daoud, Tunisia, 2005",13,"Saudi_Arabia",NA,NA
+"61","ID 3927","Daoud, Tunisia, 2005",13,"Yemeni",NA,NA
+"62","ID 3927","Daoud, Tunisia, 2005",13,"Sudanese",NA,NA
+"63","ID 3927","Daoud, Tunisia, 2005",13,"Tunisia",12,0.923076923076923
+"64","ID 3927","Daoud, Tunisia, 2005",13,"Moroccan",NA,NA
+"65","ID 3927","Daoud, Tunisia, 2005",13,"Mauritania",1,0.0769230769230769
+"66","ID 3927","Daoud, Tunisia, 2005",13,"Somalin",NA,NA
+"67","ID 3927","Daoud, Tunisia, 2005",13,"Chadian",NA,NA
+"68","ID 3927","Daoud, Tunisia, 2005",13,"Mali",NA,NA
+"69","ID 3927","Daoud, Tunisia, 2005",13,"Ivorian",NA,NA
+"70","ID 3927","Daoud, Tunisia, 2005",13,"Senegalese",NA,NA
+"71","ID 3927","Daoud, Tunisia, 2005",13,"Burkina",NA,NA
+"72","ID 3927","Daoud, Tunisia, 2005",13,"Neger",NA,NA
+"73","ID 3927","Daoud, Tunisia, 2005",13,"Nigeria",NA,NA
+"74","ID 3927","Daoud, Tunisia, 2005",13,"Guinee",NA,NA
+"75","ID 3927","Daoud, Tunisia, 2005",13,"Benin",NA,NA
+"76","ID 3927","Daoud, Tunisia, 2005",13,"Not_reported",NA,NA
+"77","ID 5253","Fahal, Sudan, 2015",6792,"Indian",NA,NA
+"78","ID 5253","Fahal, Sudan, 2015",6792,"Bangladeshi",NA,NA
+"79","ID 5253","Fahal, Sudan, 2015",6792,"Saudi_Arabia",NA,NA
+"80","ID 5253","Fahal, Sudan, 2015",6792,"Yemeni",NA,NA
+"81","ID 5253","Fahal, Sudan, 2015",6792,"Sudanese",5097,0.750441696113074
+"82","ID 5253","Fahal, Sudan, 2015",6792,"Tunisia",NA,NA
+"83","ID 5253","Fahal, Sudan, 2015",6792,"Moroccan",NA,NA
+"84","ID 5253","Fahal, Sudan, 2015",6792,"Mauritania",NA,NA
+"85","ID 5253","Fahal, Sudan, 2015",6792,"Somalin",NA,NA
+"86","ID 5253","Fahal, Sudan, 2015",6792,"Chadian",30,0.00441696113074205
+"87","ID 5253","Fahal, Sudan, 2015",6792,"Mali",NA,NA
+"88","ID 5253","Fahal, Sudan, 2015",6792,"Ivorian",NA,NA
+"89","ID 5253","Fahal, Sudan, 2015",6792,"Senegalese",NA,NA
+"90","ID 5253","Fahal, Sudan, 2015",6792,"Burkina",NA,NA
+"91","ID 5253","Fahal, Sudan, 2015",6792,"Neger",NA,NA
+"92","ID 5253","Fahal, Sudan, 2015",6792,"Nigeria",NA,NA
+"93","ID 5253","Fahal, Sudan, 2015",6792,"Guinee",NA,NA
+"94","ID 5253","Fahal, Sudan, 2015",6792,"Benin",NA,NA
+"95","ID 5253","Fahal, Sudan, 2015",6792,"Not_reported",1665,0.245141342756184
+"96","ID 5516","K. Kallel, Tunisia, 2004",13,"Indian",NA,NA
+"97","ID 5516","K. Kallel, Tunisia, 2004",13,"Bangladeshi",NA,NA
+"98","ID 5516","K. Kallel, Tunisia, 2004",13,"Saudi_Arabia",NA,NA
+"99","ID 5516","K. Kallel, Tunisia, 2004",13,"Yemeni",NA,NA
+"100","ID 5516","K. Kallel, Tunisia, 2004",13,"Sudanese",NA,NA
+"101","ID 5516","K. Kallel, Tunisia, 2004",13,"Tunisia",13,1
+"102","ID 5516","K. Kallel, Tunisia, 2004",13,"Moroccan",NA,NA
+"103","ID 5516","K. Kallel, Tunisia, 2004",13,"Mauritania",NA,NA
+"104","ID 5516","K. Kallel, Tunisia, 2004",13,"Somalin",NA,NA
+"105","ID 5516","K. Kallel, Tunisia, 2004",13,"Chadian",NA,NA
+"106","ID 5516","K. Kallel, Tunisia, 2004",13,"Mali",NA,NA
+"107","ID 5516","K. Kallel, Tunisia, 2004",13,"Ivorian",NA,NA
+"108","ID 5516","K. Kallel, Tunisia, 2004",13,"Senegalese",NA,NA
+"109","ID 5516","K. Kallel, Tunisia, 2004",13,"Burkina",NA,NA
+"110","ID 5516","K. Kallel, Tunisia, 2004",13,"Neger",NA,NA
+"111","ID 5516","K. Kallel, Tunisia, 2004",13,"Nigeria",NA,NA
+"112","ID 5516","K. Kallel, Tunisia, 2004",13,"Guinee",NA,NA
+"113","ID 5516","K. Kallel, Tunisia, 2004",13,"Benin",NA,NA
+"114","ID 5516","K. Kallel, Tunisia, 2004",13,"Not_reported",NA,NA
+"115","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Indian",NA,NA
+"116","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Bangladeshi",NA,NA
+"117","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Saudi_Arabia",NA,NA
+"118","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Yemeni",NA,NA
+"119","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Sudanese",NA,NA
+"120","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Tunisia",NA,NA
+"121","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Moroccan",NA,NA
+"122","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Mauritania",NA,NA
+"123","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Somalin",NA,NA
+"124","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Chadian",NA,NA
+"125","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Mali",NA,NA
+"126","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Ivorian",87,1
+"127","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Senegalese",NA,NA
+"128","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Burkina",NA,NA
+"129","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Neger",NA,NA
+"130","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Nigeria",NA,NA
+"131","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Guinee",NA,NA
+"132","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Benin",NA,NA
+"133","ID 5785","K.D. Adoubryn, Cot Divore, 2008",87,"Not_reported",NA,NA
+"134","ID 951","Khatri, Yemen, 2002",70,"Indian",NA,NA
+"135","ID 951","Khatri, Yemen, 2002",70,"Bangladeshi",NA,NA
+"136","ID 951","Khatri, Yemen, 2002",70,"Saudi_Arabia",NA,NA
+"137","ID 951","Khatri, Yemen, 2002",70,"Yemeni",70,1
+"138","ID 951","Khatri, Yemen, 2002",70,"Sudanese",NA,NA
+"139","ID 951","Khatri, Yemen, 2002",70,"Tunisia",NA,NA
+"140","ID 951","Khatri, Yemen, 2002",70,"Moroccan",NA,NA
+"141","ID 951","Khatri, Yemen, 2002",70,"Mauritania",NA,NA
+"142","ID 951","Khatri, Yemen, 2002",70,"Somalin",NA,NA
+"143","ID 951","Khatri, Yemen, 2002",70,"Chadian",NA,NA
+"144","ID 951","Khatri, Yemen, 2002",70,"Mali",NA,NA
+"145","ID 951","Khatri, Yemen, 2002",70,"Ivorian",NA,NA
+"146","ID 951","Khatri, Yemen, 2002",70,"Senegalese",NA,NA
+"147","ID 951","Khatri, Yemen, 2002",70,"Burkina",NA,NA
+"148","ID 951","Khatri, Yemen, 2002",70,"Neger",NA,NA
+"149","ID 951","Khatri, Yemen, 2002",70,"Nigeria",NA,NA
+"150","ID 951","Khatri, Yemen, 2002",70,"Guinee",NA,NA
+"151","ID 951","Khatri, Yemen, 2002",70,"Benin",NA,NA
+"152","ID 951","Khatri, Yemen, 2002",70,"Not_reported",NA,NA
+"153","ID 3443","Khatri, Yemen, 2021",184,"Indian",NA,NA
+"154","ID 3443","Khatri, Yemen, 2021",184,"Bangladeshi",NA,NA
+"155","ID 3443","Khatri, Yemen, 2021",184,"Saudi_Arabia",NA,NA
+"156","ID 3443","Khatri, Yemen, 2021",184,"Yemeni",184,1
+"157","ID 3443","Khatri, Yemen, 2021",184,"Sudanese",NA,NA
+"158","ID 3443","Khatri, Yemen, 2021",184,"Tunisia",NA,NA
+"159","ID 3443","Khatri, Yemen, 2021",184,"Moroccan",NA,NA
+"160","ID 3443","Khatri, Yemen, 2021",184,"Mauritania",NA,NA
+"161","ID 3443","Khatri, Yemen, 2021",184,"Somalin",NA,NA
+"162","ID 3443","Khatri, Yemen, 2021",184,"Chadian",NA,NA
+"163","ID 3443","Khatri, Yemen, 2021",184,"Mali",NA,NA
+"164","ID 3443","Khatri, Yemen, 2021",184,"Ivorian",NA,NA
+"165","ID 3443","Khatri, Yemen, 2021",184,"Senegalese",NA,NA
+"166","ID 3443","Khatri, Yemen, 2021",184,"Burkina",NA,NA
+"167","ID 3443","Khatri, Yemen, 2021",184,"Neger",NA,NA
+"168","ID 3443","Khatri, Yemen, 2021",184,"Nigeria",NA,NA
+"169","ID 3443","Khatri, Yemen, 2021",184,"Guinee",NA,NA
+"170","ID 3443","Khatri, Yemen, 2021",184,"Benin",NA,NA
+"171","ID 3443","Khatri, Yemen, 2021",184,"Not_reported",NA,NA
+"172","ID 3140","Mufti, Saudi Arabia, 2015",19,"Indian",2,0.105263157894737
+"173","ID 3140","Mufti, Saudi Arabia, 2015",19,"Bangladeshi",3,0.157894736842105
+"174","ID 3140","Mufti, Saudi Arabia, 2015",19,"Saudi_Arabia",5,0.263157894736842
+"175","ID 3140","Mufti, Saudi Arabia, 2015",19,"Yemeni",4,0.210526315789474
+"176","ID 3140","Mufti, Saudi Arabia, 2015",19,"Sudanese",2,0.105263157894737
+"177","ID 3140","Mufti, Saudi Arabia, 2015",19,"Tunisia",NA,NA
+"178","ID 3140","Mufti, Saudi Arabia, 2015",19,"Moroccan",NA,NA
+"179","ID 3140","Mufti, Saudi Arabia, 2015",19,"Mauritania",NA,NA
+"180","ID 3140","Mufti, Saudi Arabia, 2015",19,"Somalin",1,0.0526315789473684
+"181","ID 3140","Mufti, Saudi Arabia, 2015",19,"Chadian",1,0.0526315789473684
+"182","ID 3140","Mufti, Saudi Arabia, 2015",19,"Mali",1,0.0526315789473684
+"183","ID 3140","Mufti, Saudi Arabia, 2015",19,"Ivorian",NA,NA
+"184","ID 3140","Mufti, Saudi Arabia, 2015",19,"Senegalese",NA,NA
+"185","ID 3140","Mufti, Saudi Arabia, 2015",19,"Burkina",NA,NA
+"186","ID 3140","Mufti, Saudi Arabia, 2015",19,"Neger",NA,NA
+"187","ID 3140","Mufti, Saudi Arabia, 2015",19,"Nigeria",NA,NA
+"188","ID 3140","Mufti, Saudi Arabia, 2015",19,"Guinee",NA,NA
+"189","ID 3140","Mufti, Saudi Arabia, 2015",19,"Benin",NA,NA
+"190","ID 3140","Mufti, Saudi Arabia, 2015",19,"Not_reported",NA,NA
+"191","ID 3494","Siblany, Saudi Arabia, 1998",36,"Indian",NA,NA
+"192","ID 3494","Siblany, Saudi Arabia, 1998",36,"Bangladeshi",NA,NA
+"193","ID 3494","Siblany, Saudi Arabia, 1998",36,"Saudi_Arabia",7,0.194444444444444
+"194","ID 3494","Siblany, Saudi Arabia, 1998",36,"Yemeni",24,0.666666666666667
+"195","ID 3494","Siblany, Saudi Arabia, 1998",36,"Sudanese",2,0.0555555555555556
+"196","ID 3494","Siblany, Saudi Arabia, 1998",36,"Tunisia",NA,NA
+"197","ID 3494","Siblany, Saudi Arabia, 1998",36,"Moroccan",NA,NA
+"198","ID 3494","Siblany, Saudi Arabia, 1998",36,"Mauritania",NA,NA
+"199","ID 3494","Siblany, Saudi Arabia, 1998",36,"Somalin",2,0.0555555555555556
+"200","ID 3494","Siblany, Saudi Arabia, 1998",36,"Chadian",1,0.0277777777777778
+"201","ID 3494","Siblany, Saudi Arabia, 1998",36,"Mali",NA,NA
+"202","ID 3494","Siblany, Saudi Arabia, 1998",36,"Ivorian",NA,NA
+"203","ID 3494","Siblany, Saudi Arabia, 1998",36,"Senegalese",NA,NA
+"204","ID 3494","Siblany, Saudi Arabia, 1998",36,"Burkina",NA,NA
+"205","ID 3494","Siblany, Saudi Arabia, 1998",36,"Neger",NA,NA
+"206","ID 3494","Siblany, Saudi Arabia, 1998",36,"Nigeria",NA,NA
+"207","ID 3494","Siblany, Saudi Arabia, 1998",36,"Guinee",NA,NA
+"208","ID 3494","Siblany, Saudi Arabia, 1998",36,"Benin",NA,NA
+"209","ID 3494","Siblany, Saudi Arabia, 1998",36,"Not_reported",NA,NA

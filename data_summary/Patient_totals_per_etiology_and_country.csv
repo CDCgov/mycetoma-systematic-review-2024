@@ -1,0 +1,89 @@
+"","Country_clean","Taxonomic_group","Etiology","Organism_n","Total_N","prop"
+"1","Argentina","Bacteria","Actinomycetoma",59,130,0.453846153846154
+"2","Argentina","Fungus","Eumycetoma",70,130,0.538461538461538
+"3","Argentina","Not_reported","Not_reported",1,130,0.00769230769230769
+"4","Argentina","Unidentified","Unidentified",0,130,0
+"5","Brazil","Bacteria","Actinomycetoma",38,168,0.226190476190476
+"6","Brazil","Fungus","Eumycetoma",36,168,0.214285714285714
+"7","Brazil","Not_reported","Not_reported",26,168,0.154761904761905
+"8","Brazil","Unidentified","Unidentified",29,168,0.172619047619048
+"9","Bulgaria","Bacteria","Actinomycetoma",8,18,0.444444444444444
+"10","Bulgaria","Fungus","Eumycetoma",5,18,0.277777777777778
+"11","Bulgaria","Not_reported","Not_reported",5,18,0.277777777777778
+"12","Bulgaria","Unidentified","Unidentified",0,18,0
+"13","Côte d'Ivoire","Bacteria","Actinomycetoma",32,87,0.367816091954023
+"14","Côte d'Ivoire","Fungus","Eumycetoma",32,87,0.367816091954023
+"15","Côte d'Ivoire","Not_reported","Not_reported",23,87,0.264367816091954
+"16","Côte d'Ivoire","Unidentified","Unidentified",0,87,0
+"17","Ethiopia","Bacteria","Actinomycetoma",0,118,0
+"18","Ethiopia","Fungus","Eumycetoma",10,118,0.0847457627118644
+"19","Ethiopia","Not_reported","Not_reported",102,118,0.864406779661017
+"20","Ethiopia","Unidentified","Unidentified",0,118,0
+"21","India","Bacteria","Actinomycetoma",290,469,0.618336886993603
+"22","India","Fungus","Eumycetoma",114,469,0.243070362473348
+"23","India","Not_reported","Not_reported",42,469,0.0895522388059701
+"24","India","Unidentified","Unidentified",23,469,0.0490405117270789
+"25","Iran","Bacteria","Actinomycetoma",35,62,0.564516129032258
+"26","Iran","Fungus","Eumycetoma",14,62,0.225806451612903
+"27","Iran","Not_reported","Not_reported",1,62,0.0161290322580645
+"28","Iran","Unidentified","Unidentified",12,62,0.193548387096774
+"29","Kenya","Bacteria","Actinomycetoma",1,58,0.0172413793103448
+"30","Kenya","Fungus","Eumycetoma",5,58,0.0862068965517241
+"31","Kenya","Not_reported","Not_reported",52,58,0.896551724137931
+"32","Kenya","Unidentified","Unidentified",0,58,0
+"33","Mali","Bacteria","Actinomycetoma",3,19,0.157894736842105
+"34","Mali","Fungus","Eumycetoma",16,19,0.842105263157895
+"35","Mali","Not_reported","Not_reported",0,19,0
+"36","Mali","Unidentified","Unidentified",0,19,0
+"37","Mexico","Bacteria","Actinomycetoma",6088,6913,0.880659626790106
+"38","Mexico","Fungus","Eumycetoma",201,6913,0.0290756545638652
+"39","Mexico","Not_reported","Not_reported",138,6913,0.0199623897005642
+"40","Mexico","Unidentified","Unidentified",45,6913,0.00650947490235788
+"41","Morocco","Bacteria","Actinomycetoma",3,12,0.25
+"42","Morocco","Fungus","Eumycetoma",3,12,0.25
+"43","Morocco","Not_reported","Not_reported",6,12,0.5
+"44","Morocco","Unidentified","Unidentified",0,12,0
+"45","Saudi Arabia","Bacteria","Actinomycetoma",14,78,0.179487179487179
+"46","Saudi Arabia","Fungus","Eumycetoma",45,78,0.576923076923077
+"47","Saudi Arabia","Not_reported","Not_reported",0,78,0
+"48","Saudi Arabia","Unidentified","Unidentified",13,78,0.166666666666667
+"49","Senegal","Bacteria","Actinomycetoma",60,306,0.196078431372549
+"50","Senegal","Fungus","Eumycetoma",109,306,0.356209150326797
+"51","Senegal","Not_reported","Not_reported",0,306,0
+"52","Senegal","Unidentified","Unidentified",137,306,0.447712418300654
+"53","Sudan","Bacteria","Actinomycetoma",1725,16345,0.105536861425512
+"54","Sudan","Fungus","Eumycetoma",11476,16345,0.70211073722851
+"55","Sudan","Not_reported","Not_reported",1662,16345,0.101682471703885
+"56","Sudan","Unidentified","Unidentified",8,16345,0.000489446313857449
+"57","Togo","Bacteria","Actinomycetoma",9,33,0.272727272727273
+"58","Togo","Fungus","Eumycetoma",24,33,0.727272727272727
+"59","Togo","Not_reported","Not_reported",0,33,0
+"60","Togo","Unidentified","Unidentified",0,33,0
+"61","Tunisia","Bacteria","Actinomycetoma",24,59,0.406779661016949
+"62","Tunisia","Fungus","Eumycetoma",17,59,0.288135593220339
+"63","Tunisia","Not_reported","Not_reported",0,59,0
+"64","Tunisia","Unidentified","Unidentified",10,59,0.169491525423729
+"65","Uganda","Bacteria","Actinomycetoma",22,249,0.0883534136546185
+"66","Uganda","Fungus","Eumycetoma",221,249,0.887550200803213
+"67","Uganda","Not_reported","Not_reported",0,249,0
+"68","Uganda","Unidentified","Unidentified",6,249,0.0240963855421687
+"69","United Arab Emirates","Bacteria","Actinomycetoma",13,20,0.65
+"70","United Arab Emirates","Fungus","Eumycetoma",7,20,0.35
+"71","United Arab Emirates","Not_reported","Not_reported",0,20,0
+"72","United Arab Emirates","Unidentified","Unidentified",0,20,0
+"73","United Kingdom","Bacteria","Actinomycetoma",0,43,0
+"74","United Kingdom","Fungus","Eumycetoma",5,43,0.116279069767442
+"75","United Kingdom","Not_reported","Not_reported",38,43,0.883720930232558
+"76","United Kingdom","Unidentified","Unidentified",0,43,0
+"77","Venezuela","Bacteria","Actinomycetoma",15,53,0.283018867924528
+"78","Venezuela","Fungus","Eumycetoma",1,53,0.0188679245283019
+"79","Venezuela","Not_reported","Not_reported",25,53,0.471698113207547
+"80","Venezuela","Unidentified","Unidentified",12,53,0.226415094339623
+"81","West Africa","Bacteria","Actinomycetoma",12,46,0.260869565217391
+"82","West Africa","Fungus","Eumycetoma",15,46,0.326086956521739
+"83","West Africa","Not_reported","Not_reported",0,46,0
+"84","West Africa","Unidentified","Unidentified",19,46,0.41304347826087
+"85","Yemen","Bacteria","Actinomycetoma",68,254,0.267716535433071
+"86","Yemen","Fungus","Eumycetoma",154,254,0.606299212598425
+"87","Yemen","Not_reported","Not_reported",26,254,0.102362204724409
+"88","Yemen","Unidentified","Unidentified",6,254,0.0236220472440945

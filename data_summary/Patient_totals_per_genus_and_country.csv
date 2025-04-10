@@ -1,0 +1,485 @@
+"","Country_clean","Taxonomic_group","Etiology","Genus_name","Organism_n","Total_N","prop"
+"1","Argentina","Bacteria","Actinomycetoma","Actinomadura",45,130,0.346153846153846
+"2","Argentina","Bacteria","Actinomycetoma","Nocardia",12,130,0.0923076923076923
+"3","Argentina","Bacteria","Actinomycetoma","Streptomyces",2,130,0.0153846153846154
+"4","Argentina","Fungus","Eumycetoma","Acremonium",1,130,0.00769230769230769
+"5","Argentina","Fungus","Eumycetoma","Aspergillus",0,130,0
+"6","Argentina","Fungus","Eumycetoma","Cladophialophora",0,130,0
+"7","Argentina","Fungus","Eumycetoma","Cladosporium",0,130,0
+"8","Argentina","Fungus","Eumycetoma","Exophiala",0,130,0
+"9","Argentina","Fungus","Eumycetoma","Falcifomispora",0,130,0
+"10","Argentina","Fungus","Eumycetoma","Fusarium",5,130,0.0384615384615385
+"11","Argentina","Fungus","Eumycetoma","Madurella",4,130,0.0307692307692308
+"12","Argentina","Fungus","Eumycetoma","Medicopsis",0,130,0
+"13","Argentina","Fungus","Eumycetoma","Microsporum",0,130,0
+"14","Argentina","Fungus","Eumycetoma","Neoscytalidium",0,130,0
+"15","Argentina","Fungus","Eumycetoma","Nigrograna",0,130,0
+"16","Argentina","Fungus","Eumycetoma","Penicillium",0,130,0
+"17","Argentina","Fungus","Eumycetoma","Phaeoacremonium",0,130,0
+"18","Argentina","Fungus","Eumycetoma","Sarocladium",1,130,0.00769230769230769
+"19","Argentina","Fungus","Eumycetoma","Scedosporium",8,130,0.0615384615384615
+"20","Argentina","Fungus","Eumycetoma","Trematosphaeria",49,130,0.376923076923077
+"21","Argentina","Fungus","Eumycetoma","Trichophyton",0,130,0
+"22","Argentina","Fungus","Eumycetoma","Xenoacremonium",2,130,0.0153846153846154
+"23","Brazil","Bacteria","Actinomycetoma","Actinomadura",5,168,0.0297619047619048
+"24","Brazil","Bacteria","Actinomycetoma","Nocardia",30,168,0.178571428571429
+"25","Brazil","Bacteria","Actinomycetoma","Streptomyces",3,168,0.0178571428571429
+"26","Brazil","Fungus","Eumycetoma","Acremonium",2,168,0.0119047619047619
+"27","Brazil","Fungus","Eumycetoma","Aspergillus",5,168,0.0297619047619048
+"28","Brazil","Fungus","Eumycetoma","Cladophialophora",0,168,0
+"29","Brazil","Fungus","Eumycetoma","Cladosporium",0,168,0
+"30","Brazil","Fungus","Eumycetoma","Exophiala",0,168,0
+"31","Brazil","Fungus","Eumycetoma","Falcifomispora",0,168,0
+"32","Brazil","Fungus","Eumycetoma","Fusarium",0,168,0
+"33","Brazil","Fungus","Eumycetoma","Madurella",6,168,0.0357142857142857
+"34","Brazil","Fungus","Eumycetoma","Medicopsis",0,168,0
+"35","Brazil","Fungus","Eumycetoma","Microsporum",0,168,0
+"36","Brazil","Fungus","Eumycetoma","Neoscytalidium",0,168,0
+"37","Brazil","Fungus","Eumycetoma","Nigrograna",0,168,0
+"38","Brazil","Fungus","Eumycetoma","Penicillium",0,168,0
+"39","Brazil","Fungus","Eumycetoma","Phaeoacremonium",0,168,0
+"40","Brazil","Fungus","Eumycetoma","Sarocladium",3,168,0.0178571428571429
+"41","Brazil","Fungus","Eumycetoma","Scedosporium",5,168,0.0297619047619048
+"42","Brazil","Fungus","Eumycetoma","Trematosphaeria",8,168,0.0476190476190476
+"43","Brazil","Fungus","Eumycetoma","Trichophyton",0,168,0
+"44","Brazil","Fungus","Eumycetoma","Xenoacremonium",0,168,0
+"45","Bulgaria","Bacteria","Actinomycetoma","Actinomadura",3,18,0.166666666666667
+"46","Bulgaria","Bacteria","Actinomycetoma","Nocardia",5,18,0.277777777777778
+"47","Bulgaria","Bacteria","Actinomycetoma","Streptomyces",0,18,0
+"48","Bulgaria","Fungus","Eumycetoma","Acremonium",0,18,0
+"49","Bulgaria","Fungus","Eumycetoma","Aspergillus",0,18,0
+"50","Bulgaria","Fungus","Eumycetoma","Cladophialophora",0,18,0
+"51","Bulgaria","Fungus","Eumycetoma","Cladosporium",0,18,0
+"52","Bulgaria","Fungus","Eumycetoma","Exophiala",0,18,0
+"53","Bulgaria","Fungus","Eumycetoma","Falcifomispora",0,18,0
+"54","Bulgaria","Fungus","Eumycetoma","Fusarium",0,18,0
+"55","Bulgaria","Fungus","Eumycetoma","Madurella",4,18,0.222222222222222
+"56","Bulgaria","Fungus","Eumycetoma","Medicopsis",0,18,0
+"57","Bulgaria","Fungus","Eumycetoma","Microsporum",0,18,0
+"58","Bulgaria","Fungus","Eumycetoma","Neoscytalidium",0,18,0
+"59","Bulgaria","Fungus","Eumycetoma","Nigrograna",0,18,0
+"60","Bulgaria","Fungus","Eumycetoma","Penicillium",0,18,0
+"61","Bulgaria","Fungus","Eumycetoma","Phaeoacremonium",0,18,0
+"62","Bulgaria","Fungus","Eumycetoma","Sarocladium",0,18,0
+"63","Bulgaria","Fungus","Eumycetoma","Scedosporium",1,18,0.0555555555555556
+"64","Bulgaria","Fungus","Eumycetoma","Trematosphaeria",0,18,0
+"65","Bulgaria","Fungus","Eumycetoma","Trichophyton",0,18,0
+"66","Bulgaria","Fungus","Eumycetoma","Xenoacremonium",0,18,0
+"67","Côte d'Ivoire","Bacteria","Actinomycetoma","Actinomadura",8,87,0.0919540229885057
+"68","Côte d'Ivoire","Bacteria","Actinomycetoma","Nocardia",24,87,0.275862068965517
+"69","Côte d'Ivoire","Bacteria","Actinomycetoma","Streptomyces",0,87,0
+"70","Côte d'Ivoire","Fungus","Eumycetoma","Acremonium",0,87,0
+"71","Côte d'Ivoire","Fungus","Eumycetoma","Aspergillus",0,87,0
+"72","Côte d'Ivoire","Fungus","Eumycetoma","Cladophialophora",0,87,0
+"73","Côte d'Ivoire","Fungus","Eumycetoma","Cladosporium",0,87,0
+"74","Côte d'Ivoire","Fungus","Eumycetoma","Exophiala",0,87,0
+"75","Côte d'Ivoire","Fungus","Eumycetoma","Falcifomispora",0,87,0
+"76","Côte d'Ivoire","Fungus","Eumycetoma","Fusarium",0,87,0
+"77","Côte d'Ivoire","Fungus","Eumycetoma","Madurella",15,87,0.172413793103448
+"78","Côte d'Ivoire","Fungus","Eumycetoma","Medicopsis",0,87,0
+"79","Côte d'Ivoire","Fungus","Eumycetoma","Microsporum",0,87,0
+"80","Côte d'Ivoire","Fungus","Eumycetoma","Neoscytalidium",0,87,0
+"81","Côte d'Ivoire","Fungus","Eumycetoma","Nigrograna",0,87,0
+"82","Côte d'Ivoire","Fungus","Eumycetoma","Penicillium",0,87,0
+"83","Côte d'Ivoire","Fungus","Eumycetoma","Phaeoacremonium",0,87,0
+"84","Côte d'Ivoire","Fungus","Eumycetoma","Sarocladium",0,87,0
+"85","Côte d'Ivoire","Fungus","Eumycetoma","Scedosporium",13,87,0.149425287356322
+"86","Côte d'Ivoire","Fungus","Eumycetoma","Trematosphaeria",0,87,0
+"87","Côte d'Ivoire","Fungus","Eumycetoma","Trichophyton",4,87,0.0459770114942529
+"88","Côte d'Ivoire","Fungus","Eumycetoma","Xenoacremonium",0,87,0
+"89","Ethiopia","Bacteria","Actinomycetoma","Actinomadura",0,118,0
+"90","Ethiopia","Bacteria","Actinomycetoma","Nocardia",0,118,0
+"91","Ethiopia","Bacteria","Actinomycetoma","Streptomyces",0,118,0
+"92","Ethiopia","Fungus","Eumycetoma","Acremonium",0,118,0
+"93","Ethiopia","Fungus","Eumycetoma","Aspergillus",0,118,0
+"94","Ethiopia","Fungus","Eumycetoma","Cladophialophora",0,118,0
+"95","Ethiopia","Fungus","Eumycetoma","Cladosporium",0,118,0
+"96","Ethiopia","Fungus","Eumycetoma","Exophiala",0,118,0
+"97","Ethiopia","Fungus","Eumycetoma","Falcifomispora",0,118,0
+"98","Ethiopia","Fungus","Eumycetoma","Fusarium",0,118,0
+"99","Ethiopia","Fungus","Eumycetoma","Madurella",0,118,0
+"100","Ethiopia","Fungus","Eumycetoma","Medicopsis",0,118,0
+"101","Ethiopia","Fungus","Eumycetoma","Microsporum",0,118,0
+"102","Ethiopia","Fungus","Eumycetoma","Neoscytalidium",0,118,0
+"103","Ethiopia","Fungus","Eumycetoma","Nigrograna",0,118,0
+"104","Ethiopia","Fungus","Eumycetoma","Penicillium",0,118,0
+"105","Ethiopia","Fungus","Eumycetoma","Phaeoacremonium",0,118,0
+"106","Ethiopia","Fungus","Eumycetoma","Sarocladium",0,118,0
+"107","Ethiopia","Fungus","Eumycetoma","Scedosporium",0,118,0
+"108","Ethiopia","Fungus","Eumycetoma","Trematosphaeria",0,118,0
+"109","Ethiopia","Fungus","Eumycetoma","Trichophyton",0,118,0
+"110","Ethiopia","Fungus","Eumycetoma","Xenoacremonium",0,118,0
+"111","India","Bacteria","Actinomycetoma","Actinomadura",83,469,0.176972281449893
+"112","India","Bacteria","Actinomycetoma","Nocardia",193,469,0.411513859275053
+"113","India","Bacteria","Actinomycetoma","Streptomyces",14,469,0.0298507462686567
+"114","India","Fungus","Eumycetoma","Acremonium",6,469,0.0127931769722814
+"115","India","Fungus","Eumycetoma","Aspergillus",1,469,0.00213219616204691
+"116","India","Fungus","Eumycetoma","Cladophialophora",0,469,0
+"117","India","Fungus","Eumycetoma","Cladosporium",0,469,0
+"118","India","Fungus","Eumycetoma","Exophiala",2,469,0.00426439232409382
+"119","India","Fungus","Eumycetoma","Falcifomispora",0,469,0
+"120","India","Fungus","Eumycetoma","Fusarium",5,469,0.0106609808102345
+"121","India","Fungus","Eumycetoma","Madurella",47,469,0.100213219616205
+"122","India","Fungus","Eumycetoma","Medicopsis",6,469,0.0127931769722814
+"123","India","Fungus","Eumycetoma","Microsporum",0,469,0
+"124","India","Fungus","Eumycetoma","Neoscytalidium",1,469,0.00213219616204691
+"125","India","Fungus","Eumycetoma","Nigrograna",0,469,0
+"126","India","Fungus","Eumycetoma","Penicillium",0,469,0
+"127","India","Fungus","Eumycetoma","Phaeoacremonium",0,469,0
+"128","India","Fungus","Eumycetoma","Sarocladium",0,469,0
+"129","India","Fungus","Eumycetoma","Scedosporium",8,469,0.0170575692963753
+"130","India","Fungus","Eumycetoma","Trematosphaeria",38,469,0.0810234541577825
+"131","India","Fungus","Eumycetoma","Trichophyton",0,469,0
+"132","India","Fungus","Eumycetoma","Xenoacremonium",0,469,0
+"133","Iran","Bacteria","Actinomycetoma","Actinomadura",12,62,0.193548387096774
+"134","Iran","Bacteria","Actinomycetoma","Nocardia",21,62,0.338709677419355
+"135","Iran","Bacteria","Actinomycetoma","Streptomyces",2,62,0.032258064516129
+"136","Iran","Fungus","Eumycetoma","Acremonium",0,62,0
+"137","Iran","Fungus","Eumycetoma","Aspergillus",2,62,0.032258064516129
+"138","Iran","Fungus","Eumycetoma","Cladophialophora",0,62,0
+"139","Iran","Fungus","Eumycetoma","Cladosporium",0,62,0
+"140","Iran","Fungus","Eumycetoma","Exophiala",1,62,0.0161290322580645
+"141","Iran","Fungus","Eumycetoma","Falcifomispora",0,62,0
+"142","Iran","Fungus","Eumycetoma","Fusarium",1,62,0.0161290322580645
+"143","Iran","Fungus","Eumycetoma","Madurella",2,62,0.032258064516129
+"144","Iran","Fungus","Eumycetoma","Medicopsis",0,62,0
+"145","Iran","Fungus","Eumycetoma","Microsporum",0,62,0
+"146","Iran","Fungus","Eumycetoma","Neoscytalidium",0,62,0
+"147","Iran","Fungus","Eumycetoma","Nigrograna",0,62,0
+"148","Iran","Fungus","Eumycetoma","Penicillium",0,62,0
+"149","Iran","Fungus","Eumycetoma","Phaeoacremonium",0,62,0
+"150","Iran","Fungus","Eumycetoma","Sarocladium",0,62,0
+"151","Iran","Fungus","Eumycetoma","Scedosporium",8,62,0.129032258064516
+"152","Iran","Fungus","Eumycetoma","Trematosphaeria",0,62,0
+"153","Iran","Fungus","Eumycetoma","Trichophyton",0,62,0
+"154","Iran","Fungus","Eumycetoma","Xenoacremonium",0,62,0
+"155","Kenya","Bacteria","Actinomycetoma","Actinomadura",0,58,0
+"156","Kenya","Bacteria","Actinomycetoma","Nocardia",0,58,0
+"157","Kenya","Bacteria","Actinomycetoma","Streptomyces",1,58,0.0172413793103448
+"158","Kenya","Fungus","Eumycetoma","Acremonium",0,58,0
+"159","Kenya","Fungus","Eumycetoma","Aspergillus",0,58,0
+"160","Kenya","Fungus","Eumycetoma","Cladophialophora",0,58,0
+"161","Kenya","Fungus","Eumycetoma","Cladosporium",1,58,0.0172413793103448
+"162","Kenya","Fungus","Eumycetoma","Exophiala",0,58,0
+"163","Kenya","Fungus","Eumycetoma","Falcifomispora",0,58,0
+"164","Kenya","Fungus","Eumycetoma","Fusarium",0,58,0
+"165","Kenya","Fungus","Eumycetoma","Madurella",4,58,0.0689655172413793
+"166","Kenya","Fungus","Eumycetoma","Medicopsis",0,58,0
+"167","Kenya","Fungus","Eumycetoma","Microsporum",0,58,0
+"168","Kenya","Fungus","Eumycetoma","Neoscytalidium",0,58,0
+"169","Kenya","Fungus","Eumycetoma","Nigrograna",0,58,0
+"170","Kenya","Fungus","Eumycetoma","Penicillium",0,58,0
+"171","Kenya","Fungus","Eumycetoma","Phaeoacremonium",0,58,0
+"172","Kenya","Fungus","Eumycetoma","Sarocladium",0,58,0
+"173","Kenya","Fungus","Eumycetoma","Scedosporium",0,58,0
+"174","Kenya","Fungus","Eumycetoma","Trematosphaeria",0,58,0
+"175","Kenya","Fungus","Eumycetoma","Trichophyton",0,58,0
+"176","Kenya","Fungus","Eumycetoma","Xenoacremonium",0,58,0
+"177","Mali","Bacteria","Actinomycetoma","Actinomadura",3,19,0.157894736842105
+"178","Mali","Bacteria","Actinomycetoma","Nocardia",0,19,0
+"179","Mali","Bacteria","Actinomycetoma","Streptomyces",0,19,0
+"180","Mali","Fungus","Eumycetoma","Acremonium",0,19,0
+"181","Mali","Fungus","Eumycetoma","Aspergillus",0,19,0
+"182","Mali","Fungus","Eumycetoma","Cladophialophora",0,19,0
+"183","Mali","Fungus","Eumycetoma","Cladosporium",0,19,0
+"184","Mali","Fungus","Eumycetoma","Exophiala",0,19,0
+"185","Mali","Fungus","Eumycetoma","Falcifomispora",0,19,0
+"186","Mali","Fungus","Eumycetoma","Fusarium",0,19,0
+"187","Mali","Fungus","Eumycetoma","Madurella",16,19,0.842105263157895
+"188","Mali","Fungus","Eumycetoma","Medicopsis",0,19,0
+"189","Mali","Fungus","Eumycetoma","Microsporum",0,19,0
+"190","Mali","Fungus","Eumycetoma","Neoscytalidium",0,19,0
+"191","Mali","Fungus","Eumycetoma","Nigrograna",0,19,0
+"192","Mali","Fungus","Eumycetoma","Penicillium",0,19,0
+"193","Mali","Fungus","Eumycetoma","Phaeoacremonium",0,19,0
+"194","Mali","Fungus","Eumycetoma","Sarocladium",0,19,0
+"195","Mali","Fungus","Eumycetoma","Scedosporium",0,19,0
+"196","Mali","Fungus","Eumycetoma","Trematosphaeria",0,19,0
+"197","Mali","Fungus","Eumycetoma","Trichophyton",0,19,0
+"198","Mali","Fungus","Eumycetoma","Xenoacremonium",0,19,0
+"199","Mexico","Bacteria","Actinomycetoma","Actinomadura",881,6913,0.127441053088384
+"200","Mexico","Bacteria","Actinomycetoma","Nocardia",5145,6913,0.744249963836251
+"201","Mexico","Bacteria","Actinomycetoma","Streptomyces",62,6913,0.00896860986547085
+"202","Mexico","Fungus","Eumycetoma","Acremonium",5,6913,0.000723274989150875
+"203","Mexico","Fungus","Eumycetoma","Aspergillus",1,6913,0.000144654997830175
+"204","Mexico","Fungus","Eumycetoma","Cladophialophora",5,6913,0.000723274989150875
+"205","Mexico","Fungus","Eumycetoma","Cladosporium",0,6913,0
+"206","Mexico","Fungus","Eumycetoma","Exophiala",1,6913,0.000144654997830175
+"207","Mexico","Fungus","Eumycetoma","Falcifomispora",0,6913,0
+"208","Mexico","Fungus","Eumycetoma","Fusarium",10,6913,0.00144654997830175
+"209","Mexico","Fungus","Eumycetoma","Madurella",66,6913,0.00954722985679155
+"210","Mexico","Fungus","Eumycetoma","Medicopsis",4,6913,0.0005786199913207
+"211","Mexico","Fungus","Eumycetoma","Microsporum",1,6913,0.000144654997830175
+"212","Mexico","Fungus","Eumycetoma","Neoscytalidium",0,6913,0
+"213","Mexico","Fungus","Eumycetoma","Nigrograna",1,6913,0.000144654997830175
+"214","Mexico","Fungus","Eumycetoma","Penicillium",0,6913,0
+"215","Mexico","Fungus","Eumycetoma","Phaeoacremonium",1,6913,0.000144654997830175
+"216","Mexico","Fungus","Eumycetoma","Sarocladium",0,6913,0
+"217","Mexico","Fungus","Eumycetoma","Scedosporium",15,6913,0.00216982496745263
+"218","Mexico","Fungus","Eumycetoma","Trematosphaeria",43,6913,0.00622016490669753
+"219","Mexico","Fungus","Eumycetoma","Trichophyton",0,6913,0
+"220","Mexico","Fungus","Eumycetoma","Xenoacremonium",0,6913,0
+"221","Morocco","Bacteria","Actinomycetoma","Actinomadura",3,12,0.25
+"222","Morocco","Bacteria","Actinomycetoma","Nocardia",0,12,0
+"223","Morocco","Bacteria","Actinomycetoma","Streptomyces",0,12,0
+"224","Morocco","Fungus","Eumycetoma","Acremonium",0,12,0
+"225","Morocco","Fungus","Eumycetoma","Aspergillus",0,12,0
+"226","Morocco","Fungus","Eumycetoma","Cladophialophora",0,12,0
+"227","Morocco","Fungus","Eumycetoma","Cladosporium",0,12,0
+"228","Morocco","Fungus","Eumycetoma","Exophiala",0,12,0
+"229","Morocco","Fungus","Eumycetoma","Falcifomispora",0,12,0
+"230","Morocco","Fungus","Eumycetoma","Fusarium",0,12,0
+"231","Morocco","Fungus","Eumycetoma","Madurella",3,12,0.25
+"232","Morocco","Fungus","Eumycetoma","Medicopsis",0,12,0
+"233","Morocco","Fungus","Eumycetoma","Microsporum",0,12,0
+"234","Morocco","Fungus","Eumycetoma","Neoscytalidium",0,12,0
+"235","Morocco","Fungus","Eumycetoma","Nigrograna",0,12,0
+"236","Morocco","Fungus","Eumycetoma","Penicillium",0,12,0
+"237","Morocco","Fungus","Eumycetoma","Phaeoacremonium",0,12,0
+"238","Morocco","Fungus","Eumycetoma","Sarocladium",0,12,0
+"239","Morocco","Fungus","Eumycetoma","Scedosporium",0,12,0
+"240","Morocco","Fungus","Eumycetoma","Trematosphaeria",0,12,0
+"241","Morocco","Fungus","Eumycetoma","Trichophyton",0,12,0
+"242","Morocco","Fungus","Eumycetoma","Xenoacremonium",0,12,0
+"243","Saudi Arabia","Bacteria","Actinomycetoma","Actinomadura",7,78,0.0897435897435897
+"244","Saudi Arabia","Bacteria","Actinomycetoma","Nocardia",0,78,0
+"245","Saudi Arabia","Bacteria","Actinomycetoma","Streptomyces",7,78,0.0897435897435897
+"246","Saudi Arabia","Fungus","Eumycetoma","Acremonium",0,78,0
+"247","Saudi Arabia","Fungus","Eumycetoma","Aspergillus",0,78,0
+"248","Saudi Arabia","Fungus","Eumycetoma","Cladophialophora",0,78,0
+"249","Saudi Arabia","Fungus","Eumycetoma","Cladosporium",0,78,0
+"250","Saudi Arabia","Fungus","Eumycetoma","Exophiala",0,78,0
+"251","Saudi Arabia","Fungus","Eumycetoma","Falcifomispora",0,78,0
+"252","Saudi Arabia","Fungus","Eumycetoma","Fusarium",0,78,0
+"253","Saudi Arabia","Fungus","Eumycetoma","Madurella",13,78,0.166666666666667
+"254","Saudi Arabia","Fungus","Eumycetoma","Medicopsis",0,78,0
+"255","Saudi Arabia","Fungus","Eumycetoma","Microsporum",0,78,0
+"256","Saudi Arabia","Fungus","Eumycetoma","Neoscytalidium",0,78,0
+"257","Saudi Arabia","Fungus","Eumycetoma","Nigrograna",0,78,0
+"258","Saudi Arabia","Fungus","Eumycetoma","Penicillium",0,78,0
+"259","Saudi Arabia","Fungus","Eumycetoma","Phaeoacremonium",0,78,0
+"260","Saudi Arabia","Fungus","Eumycetoma","Sarocladium",0,78,0
+"261","Saudi Arabia","Fungus","Eumycetoma","Scedosporium",0,78,0
+"262","Saudi Arabia","Fungus","Eumycetoma","Trematosphaeria",2,78,0.0256410256410256
+"263","Saudi Arabia","Fungus","Eumycetoma","Trichophyton",0,78,0
+"264","Saudi Arabia","Fungus","Eumycetoma","Xenoacremonium",0,78,0
+"265","Senegal","Bacteria","Actinomycetoma","Actinomadura",53,306,0.173202614379085
+"266","Senegal","Bacteria","Actinomycetoma","Nocardia",2,306,0.0065359477124183
+"267","Senegal","Bacteria","Actinomycetoma","Streptomyces",5,306,0.0163398692810458
+"268","Senegal","Fungus","Eumycetoma","Acremonium",1,306,0.00326797385620915
+"269","Senegal","Fungus","Eumycetoma","Aspergillus",0,306,0
+"270","Senegal","Fungus","Eumycetoma","Cladophialophora",0,306,0
+"271","Senegal","Fungus","Eumycetoma","Cladosporium",0,306,0
+"272","Senegal","Fungus","Eumycetoma","Exophiala",0,306,0
+"273","Senegal","Fungus","Eumycetoma","Falcifomispora",16,306,0.0522875816993464
+"274","Senegal","Fungus","Eumycetoma","Fusarium",2,306,0.0065359477124183
+"275","Senegal","Fungus","Eumycetoma","Madurella",81,306,0.264705882352941
+"276","Senegal","Fungus","Eumycetoma","Medicopsis",0,306,0
+"277","Senegal","Fungus","Eumycetoma","Microsporum",2,306,0.0065359477124183
+"278","Senegal","Fungus","Eumycetoma","Neoscytalidium",0,306,0
+"279","Senegal","Fungus","Eumycetoma","Nigrograna",0,306,0
+"280","Senegal","Fungus","Eumycetoma","Penicillium",1,306,0.00326797385620915
+"281","Senegal","Fungus","Eumycetoma","Phaeoacremonium",0,306,0
+"282","Senegal","Fungus","Eumycetoma","Sarocladium",0,306,0
+"283","Senegal","Fungus","Eumycetoma","Scedosporium",5,306,0.0163398692810458
+"284","Senegal","Fungus","Eumycetoma","Trematosphaeria",0,306,0
+"285","Senegal","Fungus","Eumycetoma","Trichophyton",1,306,0.00326797385620915
+"286","Senegal","Fungus","Eumycetoma","Xenoacremonium",0,306,0
+"287","Sudan","Bacteria","Actinomycetoma","Actinomadura",652,16345,0.0398898745793821
+"288","Sudan","Bacteria","Actinomycetoma","Nocardia",0,16345,0
+"289","Sudan","Bacteria","Actinomycetoma","Streptomyces",1073,16345,0.0656469868461303
+"290","Sudan","Fungus","Eumycetoma","Acremonium",0,16345,0
+"291","Sudan","Fungus","Eumycetoma","Aspergillus",0,16345,0
+"292","Sudan","Fungus","Eumycetoma","Cladophialophora",0,16345,0
+"293","Sudan","Fungus","Eumycetoma","Cladosporium",0,16345,0
+"294","Sudan","Fungus","Eumycetoma","Exophiala",0,16345,0
+"295","Sudan","Fungus","Eumycetoma","Falcifomispora",0,16345,0
+"296","Sudan","Fungus","Eumycetoma","Fusarium",0,16345,0
+"297","Sudan","Fungus","Eumycetoma","Madurella",5472,16345,0.334781278678495
+"298","Sudan","Fungus","Eumycetoma","Medicopsis",0,16345,0
+"299","Sudan","Fungus","Eumycetoma","Microsporum",0,16345,0
+"300","Sudan","Fungus","Eumycetoma","Neoscytalidium",0,16345,0
+"301","Sudan","Fungus","Eumycetoma","Nigrograna",0,16345,0
+"302","Sudan","Fungus","Eumycetoma","Penicillium",0,16345,0
+"303","Sudan","Fungus","Eumycetoma","Phaeoacremonium",0,16345,0
+"304","Sudan","Fungus","Eumycetoma","Sarocladium",0,16345,0
+"305","Sudan","Fungus","Eumycetoma","Scedosporium",0,16345,0
+"306","Sudan","Fungus","Eumycetoma","Trematosphaeria",0,16345,0
+"307","Sudan","Fungus","Eumycetoma","Trichophyton",0,16345,0
+"308","Sudan","Fungus","Eumycetoma","Xenoacremonium",0,16345,0
+"309","Togo","Bacteria","Actinomycetoma","Actinomadura",8,33,0.242424242424242
+"310","Togo","Bacteria","Actinomycetoma","Nocardia",1,33,0.0303030303030303
+"311","Togo","Bacteria","Actinomycetoma","Streptomyces",0,33,0
+"312","Togo","Fungus","Eumycetoma","Acremonium",0,33,0
+"313","Togo","Fungus","Eumycetoma","Aspergillus",0,33,0
+"314","Togo","Fungus","Eumycetoma","Cladophialophora",0,33,0
+"315","Togo","Fungus","Eumycetoma","Cladosporium",0,33,0
+"316","Togo","Fungus","Eumycetoma","Exophiala",0,33,0
+"317","Togo","Fungus","Eumycetoma","Falcifomispora",3,33,0.0909090909090909
+"318","Togo","Fungus","Eumycetoma","Fusarium",0,33,0
+"319","Togo","Fungus","Eumycetoma","Madurella",21,33,0.636363636363636
+"320","Togo","Fungus","Eumycetoma","Medicopsis",0,33,0
+"321","Togo","Fungus","Eumycetoma","Microsporum",0,33,0
+"322","Togo","Fungus","Eumycetoma","Neoscytalidium",0,33,0
+"323","Togo","Fungus","Eumycetoma","Nigrograna",0,33,0
+"324","Togo","Fungus","Eumycetoma","Penicillium",0,33,0
+"325","Togo","Fungus","Eumycetoma","Phaeoacremonium",0,33,0
+"326","Togo","Fungus","Eumycetoma","Sarocladium",0,33,0
+"327","Togo","Fungus","Eumycetoma","Scedosporium",0,33,0
+"328","Togo","Fungus","Eumycetoma","Trematosphaeria",0,33,0
+"329","Togo","Fungus","Eumycetoma","Trichophyton",0,33,0
+"330","Togo","Fungus","Eumycetoma","Xenoacremonium",0,33,0
+"331","Tunisia","Bacteria","Actinomycetoma","Actinomadura",22,59,0.372881355932203
+"332","Tunisia","Bacteria","Actinomycetoma","Nocardia",1,59,0.0169491525423729
+"333","Tunisia","Bacteria","Actinomycetoma","Streptomyces",1,59,0.0169491525423729
+"334","Tunisia","Fungus","Eumycetoma","Acremonium",0,59,0
+"335","Tunisia","Fungus","Eumycetoma","Aspergillus",0,59,0
+"336","Tunisia","Fungus","Eumycetoma","Cladophialophora",0,59,0
+"337","Tunisia","Fungus","Eumycetoma","Cladosporium",0,59,0
+"338","Tunisia","Fungus","Eumycetoma","Exophiala",0,59,0
+"339","Tunisia","Fungus","Eumycetoma","Falcifomispora",0,59,0
+"340","Tunisia","Fungus","Eumycetoma","Fusarium",0,59,0
+"341","Tunisia","Fungus","Eumycetoma","Madurella",11,59,0.186440677966102
+"342","Tunisia","Fungus","Eumycetoma","Medicopsis",0,59,0
+"343","Tunisia","Fungus","Eumycetoma","Microsporum",0,59,0
+"344","Tunisia","Fungus","Eumycetoma","Neoscytalidium",0,59,0
+"345","Tunisia","Fungus","Eumycetoma","Nigrograna",0,59,0
+"346","Tunisia","Fungus","Eumycetoma","Penicillium",0,59,0
+"347","Tunisia","Fungus","Eumycetoma","Phaeoacremonium",0,59,0
+"348","Tunisia","Fungus","Eumycetoma","Sarocladium",0,59,0
+"349","Tunisia","Fungus","Eumycetoma","Scedosporium",6,59,0.101694915254237
+"350","Tunisia","Fungus","Eumycetoma","Trematosphaeria",0,59,0
+"351","Tunisia","Fungus","Eumycetoma","Trichophyton",0,59,0
+"352","Tunisia","Fungus","Eumycetoma","Xenoacremonium",0,59,0
+"353","Uganda","Bacteria","Actinomycetoma","Actinomadura",10,249,0.0401606425702811
+"354","Uganda","Bacteria","Actinomycetoma","Nocardia",12,249,0.0481927710843374
+"355","Uganda","Bacteria","Actinomycetoma","Streptomyces",0,249,0
+"356","Uganda","Fungus","Eumycetoma","Acremonium",0,249,0
+"357","Uganda","Fungus","Eumycetoma","Aspergillus",0,249,0
+"358","Uganda","Fungus","Eumycetoma","Cladophialophora",0,249,0
+"359","Uganda","Fungus","Eumycetoma","Cladosporium",0,249,0
+"360","Uganda","Fungus","Eumycetoma","Exophiala",0,249,0
+"361","Uganda","Fungus","Eumycetoma","Falcifomispora",0,249,0
+"362","Uganda","Fungus","Eumycetoma","Fusarium",0,249,0
+"363","Uganda","Fungus","Eumycetoma","Madurella",0,249,0
+"364","Uganda","Fungus","Eumycetoma","Medicopsis",0,249,0
+"365","Uganda","Fungus","Eumycetoma","Microsporum",0,249,0
+"366","Uganda","Fungus","Eumycetoma","Neoscytalidium",0,249,0
+"367","Uganda","Fungus","Eumycetoma","Nigrograna",0,249,0
+"368","Uganda","Fungus","Eumycetoma","Penicillium",0,249,0
+"369","Uganda","Fungus","Eumycetoma","Phaeoacremonium",0,249,0
+"370","Uganda","Fungus","Eumycetoma","Sarocladium",0,249,0
+"371","Uganda","Fungus","Eumycetoma","Scedosporium",0,249,0
+"372","Uganda","Fungus","Eumycetoma","Trematosphaeria",0,249,0
+"373","Uganda","Fungus","Eumycetoma","Trichophyton",0,249,0
+"374","Uganda","Fungus","Eumycetoma","Xenoacremonium",0,249,0
+"375","United Arab Emirates","Bacteria","Actinomycetoma","Actinomadura",0,20,0
+"376","United Arab Emirates","Bacteria","Actinomycetoma","Nocardia",0,20,0
+"377","United Arab Emirates","Bacteria","Actinomycetoma","Streptomyces",0,20,0
+"378","United Arab Emirates","Fungus","Eumycetoma","Acremonium",0,20,0
+"379","United Arab Emirates","Fungus","Eumycetoma","Aspergillus",0,20,0
+"380","United Arab Emirates","Fungus","Eumycetoma","Cladophialophora",0,20,0
+"381","United Arab Emirates","Fungus","Eumycetoma","Cladosporium",0,20,0
+"382","United Arab Emirates","Fungus","Eumycetoma","Exophiala",0,20,0
+"383","United Arab Emirates","Fungus","Eumycetoma","Falcifomispora",0,20,0
+"384","United Arab Emirates","Fungus","Eumycetoma","Fusarium",0,20,0
+"385","United Arab Emirates","Fungus","Eumycetoma","Madurella",0,20,0
+"386","United Arab Emirates","Fungus","Eumycetoma","Medicopsis",0,20,0
+"387","United Arab Emirates","Fungus","Eumycetoma","Microsporum",0,20,0
+"388","United Arab Emirates","Fungus","Eumycetoma","Neoscytalidium",0,20,0
+"389","United Arab Emirates","Fungus","Eumycetoma","Nigrograna",0,20,0
+"390","United Arab Emirates","Fungus","Eumycetoma","Penicillium",0,20,0
+"391","United Arab Emirates","Fungus","Eumycetoma","Phaeoacremonium",0,20,0
+"392","United Arab Emirates","Fungus","Eumycetoma","Sarocladium",0,20,0
+"393","United Arab Emirates","Fungus","Eumycetoma","Scedosporium",0,20,0
+"394","United Arab Emirates","Fungus","Eumycetoma","Trematosphaeria",0,20,0
+"395","United Arab Emirates","Fungus","Eumycetoma","Trichophyton",0,20,0
+"396","United Arab Emirates","Fungus","Eumycetoma","Xenoacremonium",0,20,0
+"397","United Kingdom","Bacteria","Actinomycetoma","Actinomadura",0,43,0
+"398","United Kingdom","Bacteria","Actinomycetoma","Nocardia",0,43,0
+"399","United Kingdom","Bacteria","Actinomycetoma","Streptomyces",0,43,0
+"400","United Kingdom","Fungus","Eumycetoma","Acremonium",0,43,0
+"401","United Kingdom","Fungus","Eumycetoma","Aspergillus",0,43,0
+"402","United Kingdom","Fungus","Eumycetoma","Cladophialophora",0,43,0
+"403","United Kingdom","Fungus","Eumycetoma","Cladosporium",0,43,0
+"404","United Kingdom","Fungus","Eumycetoma","Exophiala",0,43,0
+"405","United Kingdom","Fungus","Eumycetoma","Falcifomispora",0,43,0
+"406","United Kingdom","Fungus","Eumycetoma","Fusarium",0,43,0
+"407","United Kingdom","Fungus","Eumycetoma","Madurella",2,43,0.0465116279069767
+"408","United Kingdom","Fungus","Eumycetoma","Medicopsis",0,43,0
+"409","United Kingdom","Fungus","Eumycetoma","Microsporum",0,43,0
+"410","United Kingdom","Fungus","Eumycetoma","Neoscytalidium",0,43,0
+"411","United Kingdom","Fungus","Eumycetoma","Nigrograna",0,43,0
+"412","United Kingdom","Fungus","Eumycetoma","Penicillium",0,43,0
+"413","United Kingdom","Fungus","Eumycetoma","Phaeoacremonium",0,43,0
+"414","United Kingdom","Fungus","Eumycetoma","Sarocladium",0,43,0
+"415","United Kingdom","Fungus","Eumycetoma","Scedosporium",0,43,0
+"416","United Kingdom","Fungus","Eumycetoma","Trematosphaeria",3,43,0.0697674418604651
+"417","United Kingdom","Fungus","Eumycetoma","Trichophyton",0,43,0
+"418","United Kingdom","Fungus","Eumycetoma","Xenoacremonium",0,43,0
+"419","Venezuela","Bacteria","Actinomycetoma","Actinomadura",3,53,0.0566037735849057
+"420","Venezuela","Bacteria","Actinomycetoma","Nocardia",12,53,0.226415094339623
+"421","Venezuela","Bacteria","Actinomycetoma","Streptomyces",0,53,0
+"422","Venezuela","Fungus","Eumycetoma","Acremonium",0,53,0
+"423","Venezuela","Fungus","Eumycetoma","Aspergillus",0,53,0
+"424","Venezuela","Fungus","Eumycetoma","Cladophialophora",0,53,0
+"425","Venezuela","Fungus","Eumycetoma","Cladosporium",0,53,0
+"426","Venezuela","Fungus","Eumycetoma","Exophiala",0,53,0
+"427","Venezuela","Fungus","Eumycetoma","Falcifomispora",0,53,0
+"428","Venezuela","Fungus","Eumycetoma","Fusarium",0,53,0
+"429","Venezuela","Fungus","Eumycetoma","Madurella",0,53,0
+"430","Venezuela","Fungus","Eumycetoma","Medicopsis",0,53,0
+"431","Venezuela","Fungus","Eumycetoma","Microsporum",1,53,0.0188679245283019
+"432","Venezuela","Fungus","Eumycetoma","Neoscytalidium",0,53,0
+"433","Venezuela","Fungus","Eumycetoma","Nigrograna",0,53,0
+"434","Venezuela","Fungus","Eumycetoma","Penicillium",0,53,0
+"435","Venezuela","Fungus","Eumycetoma","Phaeoacremonium",0,53,0
+"436","Venezuela","Fungus","Eumycetoma","Sarocladium",0,53,0
+"437","Venezuela","Fungus","Eumycetoma","Scedosporium",0,53,0
+"438","Venezuela","Fungus","Eumycetoma","Trematosphaeria",0,53,0
+"439","Venezuela","Fungus","Eumycetoma","Trichophyton",0,53,0
+"440","Venezuela","Fungus","Eumycetoma","Xenoacremonium",0,53,0
+"441","West Africa","Bacteria","Actinomycetoma","Actinomadura",7,46,0.152173913043478
+"442","West Africa","Bacteria","Actinomycetoma","Nocardia",2,46,0.0434782608695652
+"443","West Africa","Bacteria","Actinomycetoma","Streptomyces",3,46,0.0652173913043478
+"444","West Africa","Fungus","Eumycetoma","Acremonium",0,46,0
+"445","West Africa","Fungus","Eumycetoma","Aspergillus",0,46,0
+"446","West Africa","Fungus","Eumycetoma","Cladophialophora",0,46,0
+"447","West Africa","Fungus","Eumycetoma","Cladosporium",0,46,0
+"448","West Africa","Fungus","Eumycetoma","Exophiala",1,46,0.0217391304347826
+"449","West Africa","Fungus","Eumycetoma","Falcifomispora",0,46,0
+"450","West Africa","Fungus","Eumycetoma","Fusarium",0,46,0
+"451","West Africa","Fungus","Eumycetoma","Madurella",12,46,0.260869565217391
+"452","West Africa","Fungus","Eumycetoma","Medicopsis",0,46,0
+"453","West Africa","Fungus","Eumycetoma","Microsporum",0,46,0
+"454","West Africa","Fungus","Eumycetoma","Neoscytalidium",0,46,0
+"455","West Africa","Fungus","Eumycetoma","Nigrograna",0,46,0
+"456","West Africa","Fungus","Eumycetoma","Penicillium",0,46,0
+"457","West Africa","Fungus","Eumycetoma","Phaeoacremonium",0,46,0
+"458","West Africa","Fungus","Eumycetoma","Sarocladium",0,46,0
+"459","West Africa","Fungus","Eumycetoma","Scedosporium",1,46,0.0217391304347826
+"460","West Africa","Fungus","Eumycetoma","Trematosphaeria",0,46,0
+"461","West Africa","Fungus","Eumycetoma","Trichophyton",1,46,0.0217391304347826
+"462","West Africa","Fungus","Eumycetoma","Xenoacremonium",0,46,0
+"463","Yemen","Bacteria","Actinomycetoma","Actinomadura",11,254,0.0433070866141732
+"464","Yemen","Bacteria","Actinomycetoma","Nocardia",20,254,0.078740157480315
+"465","Yemen","Bacteria","Actinomycetoma","Streptomyces",37,254,0.145669291338583
+"466","Yemen","Fungus","Eumycetoma","Acremonium",0,254,0
+"467","Yemen","Fungus","Eumycetoma","Aspergillus",0,254,0
+"468","Yemen","Fungus","Eumycetoma","Cladophialophora",0,254,0
+"469","Yemen","Fungus","Eumycetoma","Cladosporium",0,254,0
+"470","Yemen","Fungus","Eumycetoma","Exophiala",0,254,0
+"471","Yemen","Fungus","Eumycetoma","Falcifomispora",3,254,0.0118110236220472
+"472","Yemen","Fungus","Eumycetoma","Fusarium",0,254,0
+"473","Yemen","Fungus","Eumycetoma","Madurella",151,254,0.594488188976378
+"474","Yemen","Fungus","Eumycetoma","Medicopsis",0,254,0
+"475","Yemen","Fungus","Eumycetoma","Microsporum",0,254,0
+"476","Yemen","Fungus","Eumycetoma","Neoscytalidium",0,254,0
+"477","Yemen","Fungus","Eumycetoma","Nigrograna",0,254,0
+"478","Yemen","Fungus","Eumycetoma","Penicillium",0,254,0
+"479","Yemen","Fungus","Eumycetoma","Phaeoacremonium",0,254,0
+"480","Yemen","Fungus","Eumycetoma","Sarocladium",0,254,0
+"481","Yemen","Fungus","Eumycetoma","Scedosporium",0,254,0
+"482","Yemen","Fungus","Eumycetoma","Trematosphaeria",0,254,0
+"483","Yemen","Fungus","Eumycetoma","Trichophyton",0,254,0
+"484","Yemen","Fungus","Eumycetoma","Xenoacremonium",0,254,0

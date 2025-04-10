@@ -1,0 +1,9 @@
+"","Treatment_classification","Treatment_type","mean_percent","lower_percent","upper_percent","n_studies"
+"1","Pharmaceutical","Pharmaceutical_treatment",92.0882966990216,36.7816091954023,100,28
+"2","Surgical","Surgical_debridement",76.9230769230769,76.9230769230769,76.9230769230769,1
+"3","Surgical","Surgical_excision",40.631364797885,2.31362467866324,96.969696969697,16
+"4","Surgical","Surgical_amputation",13.9953413340501,0.77120822622108,63.1578947368421,19
+"5","Surgical","Surgical_resection",26.9526002686624,25.9259259259259,27.979274611399,2
+"6","Non-traditional","Religious",51.1568123393316,51.1568123393316,51.1568123393316,1
+"7","Non-traditional","Herbal_traditional",68.1372504345831,52.6315789473684,80.8290155440415,3
+"8","Not reported","Not_reported",3.33333333333333,3.03030303030303,3.63636363636364,2

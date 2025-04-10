@@ -1,0 +1,400 @@
+"","ID","Study_meta","Total_N","Body_region","n","percent"
+"1","ID 1203","Batalla, Morocco, 2011",12,"Buttocks_Groin",NA,NA
+"2","ID 1203","Batalla, Morocco, 2011",12,"Face_Neck",NA,NA
+"3","ID 1203","Batalla, Morocco, 2011",12,"Lower_Limbs",10,83.3333333333333
+"4","ID 1203","Batalla, Morocco, 2011",12,"Multiple_sites",NA,NA
+"5","ID 1203","Batalla, Morocco, 2011",12,"Trunk",1,8.33333333333333
+"6","ID 1203","Batalla, Morocco, 2011",12,"Unspecified",NA,NA
+"7","ID 1203","Batalla, Morocco, 2011",12,"Upper_Limbs",1,8.33333333333333
+"8","ID 1249","Aboudi, Sudan, 2017",100,"Buttocks_Groin",NA,NA
+"9","ID 1249","Aboudi, Sudan, 2017",100,"Face_Neck",NA,NA
+"10","ID 1249","Aboudi, Sudan, 2017",100,"Lower_Limbs",82,82
+"11","ID 1249","Aboudi, Sudan, 2017",100,"Multiple_sites",NA,NA
+"12","ID 1249","Aboudi, Sudan, 2017",100,"Trunk",NA,NA
+"13","ID 1249","Aboudi, Sudan, 2017",100,"Unspecified",NA,NA
+"14","ID 1249","Aboudi, Sudan, 2017",100,"Upper_Limbs",18,18
+"15","ID 1263","Sran, India, 1973",110,"Buttocks_Groin",6,5.45454545454545
+"16","ID 1263","Sran, India, 1973",110,"Face_Neck",2,1.81818181818182
+"17","ID 1263","Sran, India, 1973",110,"Lower_Limbs",96,87.2727272727273
+"18","ID 1263","Sran, India, 1973",110,"Multiple_sites",NA,NA
+"19","ID 1263","Sran, India, 1973",110,"Trunk",NA,NA
+"20","ID 1263","Sran, India, 1973",110,"Unspecified",NA,NA
+"21","ID 1263","Sran, India, 1973",110,"Upper_Limbs",6,5.45454545454545
+"22","ID 136","Convit, Venezuela, 1959",37,"Buttocks_Groin",NA,NA
+"23","ID 136","Convit, Venezuela, 1959",37,"Face_Neck",4,10.8108108108108
+"24","ID 136","Convit, Venezuela, 1959",37,"Lower_Limbs",22,59.4594594594595
+"25","ID 136","Convit, Venezuela, 1959",37,"Multiple_sites",NA,NA
+"26","ID 136","Convit, Venezuela, 1959",37,"Trunk",9,24.3243243243243
+"27","ID 136","Convit, Venezuela, 1959",37,"Unspecified",NA,NA
+"28","ID 136","Convit, Venezuela, 1959",37,"Upper_Limbs",2,5.40540540540541
+"29","ID 137","Ndiaye, Senegal, 2011",113,"Buttocks_Groin",1,0.884955752212389
+"30","ID 137","Ndiaye, Senegal, 2011",113,"Face_Neck",3,2.65486725663717
+"31","ID 137","Ndiaye, Senegal, 2011",113,"Lower_Limbs",105,92.9203539823009
+"32","ID 137","Ndiaye, Senegal, 2011",113,"Multiple_sites",NA,NA
+"33","ID 137","Ndiaye, Senegal, 2011",113,"Trunk",2,1.76991150442478
+"34","ID 137","Ndiaye, Senegal, 2011",113,"Unspecified",NA,NA
+"35","ID 137","Ndiaye, Senegal, 2011",113,"Upper_Limbs",2,1.76991150442478
+"36","ID 1640","Maritinez, Mexico, 1992",2105,"Buttocks_Groin",NA,NA
+"37","ID 1640","Maritinez, Mexico, 1992",2105,"Face_Neck",40,1.90023752969121
+"38","ID 1640","Maritinez, Mexico, 1992",2105,"Lower_Limbs",1028,48.8361045130641
+"39","ID 1640","Maritinez, Mexico, 1992",2105,"Multiple_sites",38,1.80522565320665
+"40","ID 1640","Maritinez, Mexico, 1992",2105,"Trunk",279,13.2541567695962
+"41","ID 1640","Maritinez, Mexico, 1992",2105,"Unspecified",540,25.6532066508314
+"42","ID 1640","Maritinez, Mexico, 1992",2105,"Upper_Limbs",218,10.3562945368171
+"43","ID 1641","Lopez, Mexico, 2023",70,"Buttocks_Groin",4,5.71428571428571
+"44","ID 1641","Lopez, Mexico, 2023",70,"Face_Neck",1,1.42857142857143
+"45","ID 1641","Lopez, Mexico, 2023",70,"Lower_Limbs",18,25.7142857142857
+"46","ID 1641","Lopez, Mexico, 2023",70,"Multiple_sites",NA,NA
+"47","ID 1641","Lopez, Mexico, 2023",70,"Trunk",39,55.7142857142857
+"48","ID 1641","Lopez, Mexico, 2023",70,"Unspecified",NA,NA
+"49","ID 1641","Lopez, Mexico, 2023",70,"Upper_Limbs",8,11.4285714285714
+"50","ID 1648","Maiti, India, 2002",264,"Buttocks_Groin",5,1.89393939393939
+"51","ID 1648","Maiti, India, 2002",264,"Face_Neck",2,0.757575757575758
+"52","ID 1648","Maiti, India, 2002",264,"Lower_Limbs",198,75
+"53","ID 1648","Maiti, India, 2002",264,"Multiple_sites",NA,NA
+"54","ID 1648","Maiti, India, 2002",264,"Trunk",28,10.6060606060606
+"55","ID 1648","Maiti, India, 2002",264,"Unspecified",10,3.78787878787879
+"56","ID 1648","Maiti, India, 2002",264,"Upper_Limbs",31,11.7424242424242
+"57","ID 1689","Negroni, Argentina, 2006",76,"Buttocks_Groin",1,1.31578947368421
+"58","ID 1689","Negroni, Argentina, 2006",76,"Face_Neck",NA,NA
+"59","ID 1689","Negroni, Argentina, 2006",76,"Lower_Limbs",68,89.4736842105263
+"60","ID 1689","Negroni, Argentina, 2006",76,"Multiple_sites",NA,NA
+"61","ID 1689","Negroni, Argentina, 2006",76,"Trunk",NA,NA
+"62","ID 1689","Negroni, Argentina, 2006",76,"Unspecified",NA,NA
+"63","ID 1689","Negroni, Argentina, 2006",76,"Upper_Limbs",7,9.21052631578947
+"64","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Buttocks_Groin",2,8.69565217391304
+"65","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Face_Neck",1,4.34782608695652
+"66","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Lower_Limbs",19,82.6086956521739
+"67","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Multiple_sites",NA,NA
+"68","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Trunk",1,4.34782608695652
+"69","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Unspecified",NA,NA
+"70","ID 1709","Venugopal, Saudi Arabia, 1990",23,"Upper_Limbs",NA,NA
+"71","ID 1887","El Hag, Sudan, 1994",14,"Buttocks_Groin",NA,NA
+"72","ID 1887","El Hag, Sudan, 1994",14,"Face_Neck",NA,NA
+"73","ID 1887","El Hag, Sudan, 1994",14,"Lower_Limbs",11,78.5714285714286
+"74","ID 1887","El Hag, Sudan, 1994",14,"Multiple_sites",NA,NA
+"75","ID 1887","El Hag, Sudan, 1994",14,"Trunk",NA,NA
+"76","ID 1887","El Hag, Sudan, 1994",14,"Unspecified",NA,NA
+"77","ID 1887","El Hag, Sudan, 1994",14,"Upper_Limbs",3,21.4285714285714
+"78","ID 2183","Hassan, Sudan, 2022",359,"Buttocks_Groin",NA,NA
+"79","ID 2183","Hassan, Sudan, 2022",359,"Face_Neck",NA,NA
+"80","ID 2183","Hassan, Sudan, 2022",359,"Lower_Limbs",NA,NA
+"81","ID 2183","Hassan, Sudan, 2022",359,"Multiple_sites",NA,NA
+"82","ID 2183","Hassan, Sudan, 2022",359,"Trunk",245,68.2451253481894
+"83","ID 2183","Hassan, Sudan, 2022",359,"Unspecified",114,31.7548746518106
+"84","ID 2183","Hassan, Sudan, 2022",359,"Upper_Limbs",NA,NA
+"85","ID 2267","Ali, Sudan, 2022",160,"Buttocks_Groin",NA,NA
+"86","ID 2267","Ali, Sudan, 2022",160,"Face_Neck",NA,NA
+"87","ID 2267","Ali, Sudan, 2022",160,"Lower_Limbs",128,80
+"88","ID 2267","Ali, Sudan, 2022",160,"Multiple_sites",NA,NA
+"89","ID 2267","Ali, Sudan, 2022",160,"Trunk",NA,NA
+"90","ID 2267","Ali, Sudan, 2022",160,"Unspecified",8,5
+"91","ID 2267","Ali, Sudan, 2022",160,"Upper_Limbs",24,15
+"92","ID 2396","Guimara ̃es, Brazil, 2003",40,"Buttocks_Groin",NA,NA
+"93","ID 2396","Guimara ̃es, Brazil, 2003",40,"Face_Neck",NA,NA
+"94","ID 2396","Guimara ̃es, Brazil, 2003",40,"Lower_Limbs",34,85
+"95","ID 2396","Guimara ̃es, Brazil, 2003",40,"Multiple_sites",NA,NA
+"96","ID 2396","Guimara ̃es, Brazil, 2003",40,"Trunk",1,2.5
+"97","ID 2396","Guimara ̃es, Brazil, 2003",40,"Unspecified",NA,NA
+"98","ID 2396","Guimara ̃es, Brazil, 2003",40,"Upper_Limbs",5,12.5
+"99","ID 2678","Traore, Mali, 2021",19,"Buttocks_Groin",NA,NA
+"100","ID 2678","Traore, Mali, 2021",19,"Face_Neck",NA,NA
+"101","ID 2678","Traore, Mali, 2021",19,"Lower_Limbs",16,84.2105263157895
+"102","ID 2678","Traore, Mali, 2021",19,"Multiple_sites",NA,NA
+"103","ID 2678","Traore, Mali, 2021",19,"Trunk",1,5.26315789473684
+"104","ID 2678","Traore, Mali, 2021",19,"Unspecified",NA,NA
+"105","ID 2678","Traore, Mali, 2021",19,"Upper_Limbs",2,10.5263157894737
+"106","ID 2780","Sear, Venezuela, 2022",16,"Buttocks_Groin",NA,NA
+"107","ID 2780","Sear, Venezuela, 2022",16,"Face_Neck",1,6.25
+"108","ID 2780","Sear, Venezuela, 2022",16,"Lower_Limbs",11,68.75
+"109","ID 2780","Sear, Venezuela, 2022",16,"Multiple_sites",NA,NA
+"110","ID 2780","Sear, Venezuela, 2022",16,"Trunk",2,12.5
+"111","ID 2780","Sear, Venezuela, 2022",16,"Unspecified",NA,NA
+"112","ID 2780","Sear, Venezuela, 2022",16,"Upper_Limbs",2,12.5
+"113","ID 2893","Correa, Mexico, 2018",174,"Buttocks_Groin",NA,NA
+"114","ID 2893","Correa, Mexico, 2018",174,"Face_Neck",NA,NA
+"115","ID 2893","Correa, Mexico, 2018",174,"Lower_Limbs",92,52.8735632183908
+"116","ID 2893","Correa, Mexico, 2018",174,"Multiple_sites",NA,NA
+"117","ID 2893","Correa, Mexico, 2018",174,"Trunk",46,26.4367816091954
+"118","ID 2893","Correa, Mexico, 2018",174,"Unspecified",12,6.89655172413793
+"119","ID 2893","Correa, Mexico, 2018",174,"Upper_Limbs",24,13.7931034482759
+"120","ID 3081","Castro, Brazil, 1992",41,"Buttocks_Groin",NA,NA
+"121","ID 3081","Castro, Brazil, 1992",41,"Face_Neck",2,4.8780487804878
+"122","ID 3081","Castro, Brazil, 1992",41,"Lower_Limbs",33,80.4878048780488
+"123","ID 3081","Castro, Brazil, 1992",41,"Multiple_sites",NA,NA
+"124","ID 3081","Castro, Brazil, 1992",41,"Trunk",5,12.1951219512195
+"125","ID 3081","Castro, Brazil, 1992",41,"Unspecified",NA,NA
+"126","ID 3081","Castro, Brazil, 1992",41,"Upper_Limbs",1,2.4390243902439
+"127","ID 3140","Mufti, Saudi Arabia, 2015",19,"Buttocks_Groin",1,5.26315789473684
+"128","ID 3140","Mufti, Saudi Arabia, 2015",19,"Face_Neck",2,10.5263157894737
+"129","ID 3140","Mufti, Saudi Arabia, 2015",19,"Lower_Limbs",15,78.9473684210526
+"130","ID 3140","Mufti, Saudi Arabia, 2015",19,"Multiple_sites",NA,NA
+"131","ID 3140","Mufti, Saudi Arabia, 2015",19,"Trunk",1,5.26315789473684
+"132","ID 3140","Mufti, Saudi Arabia, 2015",19,"Unspecified",NA,NA
+"133","ID 3140","Mufti, Saudi Arabia, 2015",19,"Upper_Limbs",NA,NA
+"134","ID 3340","Sow, Senegal, 2020",193,"Buttocks_Groin",NA,NA
+"135","ID 3340","Sow, Senegal, 2020",193,"Face_Neck",2,1.03626943005181
+"136","ID 3340","Sow, Senegal, 2020",193,"Lower_Limbs",176,91.1917098445596
+"137","ID 3340","Sow, Senegal, 2020",193,"Multiple_sites",NA,NA
+"138","ID 3340","Sow, Senegal, 2020",193,"Trunk",11,5.69948186528497
+"139","ID 3340","Sow, Senegal, 2020",193,"Unspecified",NA,NA
+"140","ID 3340","Sow, Senegal, 2020",193,"Upper_Limbs",4,2.07253886010363
+"141","ID 3423","Hashemi, Iran, 2005",62,"Buttocks_Groin",2,3.2258064516129
+"142","ID 3423","Hashemi, Iran, 2005",62,"Face_Neck",NA,NA
+"143","ID 3423","Hashemi, Iran, 2005",62,"Lower_Limbs",49,79.0322580645161
+"144","ID 3423","Hashemi, Iran, 2005",62,"Multiple_sites",NA,NA
+"145","ID 3423","Hashemi, Iran, 2005",62,"Trunk",NA,NA
+"146","ID 3423","Hashemi, Iran, 2005",62,"Unspecified",NA,NA
+"147","ID 3423","Hashemi, Iran, 2005",62,"Upper_Limbs",11,17.741935483871
+"148","ID 3458","Padhi, India, 2010",13,"Buttocks_Groin",NA,NA
+"149","ID 3458","Padhi, India, 2010",13,"Face_Neck",1,7.69230769230769
+"150","ID 3458","Padhi, India, 2010",13,"Lower_Limbs",10,76.9230769230769
+"151","ID 3458","Padhi, India, 2010",13,"Multiple_sites",NA,NA
+"152","ID 3458","Padhi, India, 2010",13,"Trunk",2,15.3846153846154
+"153","ID 3458","Padhi, India, 2010",13,"Unspecified",NA,NA
+"154","ID 3458","Padhi, India, 2010",13,"Upper_Limbs",NA,NA
+"155","ID 3486","Darre ́, Togo, 2018",33,"Buttocks_Groin",NA,NA
+"156","ID 3486","Darre ́, Togo, 2018",33,"Face_Neck",4,12.1212121212121
+"157","ID 3486","Darre ́, Togo, 2018",33,"Lower_Limbs",22,66.6666666666667
+"158","ID 3486","Darre ́, Togo, 2018",33,"Multiple_sites",NA,NA
+"159","ID 3486","Darre ́, Togo, 2018",33,"Trunk",6,18.1818181818182
+"160","ID 3486","Darre ́, Togo, 2018",33,"Unspecified",NA,NA
+"161","ID 3486","Darre ́, Togo, 2018",33,"Upper_Limbs",2,6.06060606060606
+"162","ID 3494","Siblany, Saudi Arabia, 1998",36,"Buttocks_Groin",NA,NA
+"163","ID 3494","Siblany, Saudi Arabia, 1998",36,"Face_Neck",NA,NA
+"164","ID 3494","Siblany, Saudi Arabia, 1998",36,"Lower_Limbs",34,94.4444444444444
+"165","ID 3494","Siblany, Saudi Arabia, 1998",36,"Multiple_sites",NA,NA
+"166","ID 3494","Siblany, Saudi Arabia, 1998",36,"Trunk",1,2.77777777777778
+"167","ID 3494","Siblany, Saudi Arabia, 1998",36,"Unspecified",NA,NA
+"168","ID 3494","Siblany, Saudi Arabia, 1998",36,"Upper_Limbs",1,2.77777777777778
+"169","ID 3501","Kizera, Uganda, 2020",249,"Buttocks_Groin",8,3.21285140562249
+"170","ID 3501","Kizera, Uganda, 2020",249,"Face_Neck",1,0.401606425702811
+"171","ID 3501","Kizera, Uganda, 2020",249,"Lower_Limbs",221,88.7550200803213
+"172","ID 3501","Kizera, Uganda, 2020",249,"Multiple_sites",NA,NA
+"173","ID 3501","Kizera, Uganda, 2020",249,"Trunk",4,1.60642570281124
+"174","ID 3501","Kizera, Uganda, 2020",249,"Unspecified",7,2.81124497991968
+"175","ID 3501","Kizera, Uganda, 2020",249,"Upper_Limbs",8,3.21285140562249
+"176","ID 3554","Musa, Sudan, 2022",503,"Buttocks_Groin",370,73.558648111332
+"177","ID 3554","Musa, Sudan, 2022",503,"Face_Neck",NA,NA
+"178","ID 3554","Musa, Sudan, 2022",503,"Lower_Limbs",47,9.34393638170974
+"179","ID 3554","Musa, Sudan, 2022",503,"Multiple_sites",NA,NA
+"180","ID 3554","Musa, Sudan, 2022",503,"Trunk",NA,NA
+"181","ID 3554","Musa, Sudan, 2022",503,"Unspecified",86,17.0974155069582
+"182","ID 3554","Musa, Sudan, 2022",503,"Upper_Limbs",NA,NA
+"183","ID 3734","Adoubryn, West Africa, 2009",46,"Buttocks_Groin",NA,NA
+"184","ID 3734","Adoubryn, West Africa, 2009",46,"Face_Neck",1,2.17391304347826
+"185","ID 3734","Adoubryn, West Africa, 2009",46,"Lower_Limbs",35,76.0869565217391
+"186","ID 3734","Adoubryn, West Africa, 2009",46,"Multiple_sites",NA,NA
+"187","ID 3734","Adoubryn, West Africa, 2009",46,"Trunk",NA,NA
+"188","ID 3734","Adoubryn, West Africa, 2009",46,"Unspecified",8,17.3913043478261
+"189","ID 3734","Adoubryn, West Africa, 2009",46,"Upper_Limbs",2,4.34782608695652
+"190","ID 3864","Sawatkar, India, 2019",11,"Buttocks_Groin",NA,NA
+"191","ID 3864","Sawatkar, India, 2019",11,"Face_Neck",1,9.09090909090909
+"192","ID 3864","Sawatkar, India, 2019",11,"Lower_Limbs",9,81.8181818181818
+"193","ID 3864","Sawatkar, India, 2019",11,"Multiple_sites",NA,NA
+"194","ID 3864","Sawatkar, India, 2019",11,"Trunk",NA,NA
+"195","ID 3864","Sawatkar, India, 2019",11,"Unspecified",NA,NA
+"196","ID 3864","Sawatkar, India, 2019",11,"Upper_Limbs",1,9.09090909090909
+"197","ID 3886","Dharmshale, India, 2015",23,"Buttocks_Groin",1,4.34782608695652
+"198","ID 3886","Dharmshale, India, 2015",23,"Face_Neck",NA,NA
+"199","ID 3886","Dharmshale, India, 2015",23,"Lower_Limbs",17,73.9130434782609
+"200","ID 3886","Dharmshale, India, 2015",23,"Multiple_sites",NA,NA
+"201","ID 3886","Dharmshale, India, 2015",23,"Trunk",4,17.3913043478261
+"202","ID 3886","Dharmshale, India, 2015",23,"Unspecified",NA,NA
+"203","ID 3886","Dharmshale, India, 2015",23,"Upper_Limbs",1,4.34782608695652
+"204","ID 3905","Bonifaz, Mexico, 2014",482,"Buttocks_Groin",NA,NA
+"205","ID 3905","Bonifaz, Mexico, 2014",482,"Face_Neck",4,0.829875518672199
+"206","ID 3905","Bonifaz, Mexico, 2014",482,"Lower_Limbs",341,70.746887966805
+"207","ID 3905","Bonifaz, Mexico, 2014",482,"Multiple_sites",10,2.0746887966805
+"208","ID 3905","Bonifaz, Mexico, 2014",482,"Trunk",49,10.1659751037344
+"209","ID 3905","Bonifaz, Mexico, 2014",482,"Unspecified",18,3.7344398340249
+"210","ID 3905","Bonifaz, Mexico, 2014",482,"Upper_Limbs",108,22.4066390041494
+"211","ID 3927","Daoud, Tunisia, 2005",13,"Buttocks_Groin",NA,NA
+"212","ID 3927","Daoud, Tunisia, 2005",13,"Face_Neck",NA,NA
+"213","ID 3927","Daoud, Tunisia, 2005",13,"Lower_Limbs",13,100
+"214","ID 3927","Daoud, Tunisia, 2005",13,"Multiple_sites",NA,NA
+"215","ID 3927","Daoud, Tunisia, 2005",13,"Trunk",NA,NA
+"216","ID 3927","Daoud, Tunisia, 2005",13,"Unspecified",NA,NA
+"217","ID 3927","Daoud, Tunisia, 2005",13,"Upper_Limbs",NA,NA
+"218","ID 4018","Balabanoff, Bulgaria, 1998",18,"Buttocks_Groin",NA,NA
+"219","ID 4018","Balabanoff, Bulgaria, 1998",18,"Face_Neck",NA,NA
+"220","ID 4018","Balabanoff, Bulgaria, 1998",18,"Lower_Limbs",16,88.8888888888889
+"221","ID 4018","Balabanoff, Bulgaria, 1998",18,"Multiple_sites",NA,NA
+"222","ID 4018","Balabanoff, Bulgaria, 1998",18,"Trunk",NA,NA
+"223","ID 4018","Balabanoff, Bulgaria, 1998",18,"Unspecified",1,5.55555555555556
+"224","ID 4018","Balabanoff, Bulgaria, 1998",18,"Upper_Limbs",1,5.55555555555556
+"225","ID 4072","EL Shamy, Sudan, 2012",42,"Buttocks_Groin",3,7.14285714285714
+"226","ID 4072","EL Shamy, Sudan, 2012",42,"Face_Neck",1,2.38095238095238
+"227","ID 4072","EL Shamy, Sudan, 2012",42,"Lower_Limbs",32,76.1904761904762
+"228","ID 4072","EL Shamy, Sudan, 2012",42,"Multiple_sites",NA,NA
+"229","ID 4072","EL Shamy, Sudan, 2012",42,"Trunk",2,4.76190476190476
+"230","ID 4072","EL Shamy, Sudan, 2012",42,"Unspecified",NA,NA
+"231","ID 4072","EL Shamy, Sudan, 2012",42,"Upper_Limbs",4,9.52380952380952
+"232","ID 4290","Mallick, Brazil, 2021",12,"Buttocks_Groin",NA,NA
+"233","ID 4290","Mallick, Brazil, 2021",12,"Face_Neck",NA,NA
+"234","ID 4290","Mallick, Brazil, 2021",12,"Lower_Limbs",11,91.6666666666667
+"235","ID 4290","Mallick, Brazil, 2021",12,"Multiple_sites",NA,NA
+"236","ID 4290","Mallick, Brazil, 2021",12,"Trunk",NA,NA
+"237","ID 4290","Mallick, Brazil, 2021",12,"Unspecified",NA,NA
+"238","ID 4290","Mallick, Brazil, 2021",12,"Upper_Limbs",1,8.33333333333333
+"239","ID 4423","Venugopal, India, 1975",90,"Buttocks_Groin",1,1.11111111111111
+"240","ID 4423","Venugopal, India, 1975",90,"Face_Neck",1,1.11111111111111
+"241","ID 4423","Venugopal, India, 1975",90,"Lower_Limbs",76,84.4444444444444
+"242","ID 4423","Venugopal, India, 1975",90,"Multiple_sites",NA,NA
+"243","ID 4423","Venugopal, India, 1975",90,"Trunk",2,2.22222222222222
+"244","ID 4423","Venugopal, India, 1975",90,"Unspecified",NA,NA
+"245","ID 4423","Venugopal, India, 1975",90,"Upper_Limbs",10,11.1111111111111
+"246","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Buttocks_Groin",NA,NA
+"247","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Face_Neck",1,2.77777777777778
+"248","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Lower_Limbs",32,88.8888888888889
+"249","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Multiple_sites",NA,NA
+"250","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Trunk",3,8.33333333333333
+"251","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Unspecified",NA,NA
+"252","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Upper_Limbs",NA,NA
+"253","ID 445","Fahal, Sudan, 2014",33,"Buttocks_Groin",1,3.03030303030303
+"254","ID 445","Fahal, Sudan, 2014",33,"Face_Neck",NA,NA
+"255","ID 445","Fahal, Sudan, 2014",33,"Lower_Limbs",28,84.8484848484848
+"256","ID 445","Fahal, Sudan, 2014",33,"Multiple_sites",NA,NA
+"257","ID 445","Fahal, Sudan, 2014",33,"Trunk",NA,NA
+"258","ID 445","Fahal, Sudan, 2014",33,"Unspecified",NA,NA
+"259","ID 445","Fahal, Sudan, 2014",33,"Upper_Limbs",4,12.1212121212121
+"260","ID 456","Yousif, Sudan, 2009",230,"Buttocks_Groin",1,0.434782608695652
+"261","ID 456","Yousif, Sudan, 2009",230,"Face_Neck",NA,NA
+"262","ID 456","Yousif, Sudan, 2009",230,"Lower_Limbs",200,86.9565217391304
+"263","ID 456","Yousif, Sudan, 2009",230,"Multiple_sites",NA,NA
+"264","ID 456","Yousif, Sudan, 2009",230,"Trunk",2,0.869565217391304
+"265","ID 456","Yousif, Sudan, 2009",230,"Unspecified",13,5.65217391304348
+"266","ID 456","Yousif, Sudan, 2009",230,"Upper_Limbs",14,6.08695652173913
+"267","ID 4716","Sampaio, Brazil, 2017",21,"Buttocks_Groin",NA,NA
+"268","ID 4716","Sampaio, Brazil, 2017",21,"Face_Neck",NA,NA
+"269","ID 4716","Sampaio, Brazil, 2017",21,"Lower_Limbs",20,95.2380952380952
+"270","ID 4716","Sampaio, Brazil, 2017",21,"Multiple_sites",NA,NA
+"271","ID 4716","Sampaio, Brazil, 2017",21,"Trunk",NA,NA
+"272","ID 4716","Sampaio, Brazil, 2017",21,"Unspecified",NA,NA
+"273","ID 4716","Sampaio, Brazil, 2017",21,"Upper_Limbs",1,4.76190476190476
+"274","ID 475","Azraga, Sudan, 2011",26,"Buttocks_Groin",NA,NA
+"275","ID 475","Azraga, Sudan, 2011",26,"Face_Neck",NA,NA
+"276","ID 475","Azraga, Sudan, 2011",26,"Lower_Limbs",23,88.4615384615385
+"277","ID 475","Azraga, Sudan, 2011",26,"Multiple_sites",NA,NA
+"278","ID 475","Azraga, Sudan, 2011",26,"Trunk",NA,NA
+"279","ID 475","Azraga, Sudan, 2011",26,"Unspecified",1,3.84615384615385
+"280","ID 475","Azraga, Sudan, 2011",26,"Upper_Limbs",2,7.69230769230769
+"281","ID 509","Kamalam, India, 1976",5,"Buttocks_Groin",NA,NA
+"282","ID 509","Kamalam, India, 1976",5,"Face_Neck",2,40
+"283","ID 509","Kamalam, India, 1976",5,"Lower_Limbs",3,60
+"284","ID 509","Kamalam, India, 1976",5,"Multiple_sites",NA,NA
+"285","ID 509","Kamalam, India, 1976",5,"Trunk",1,20
+"286","ID 509","Kamalam, India, 1976",5,"Unspecified",NA,NA
+"287","ID 509","Kamalam, India, 1976",5,"Upper_Limbs",NA,NA
+"288","ID 510","Kébéa, Mauritania, 2021",87,"Buttocks_Groin",2,2.29885057471264
+"289","ID 510","Kébéa, Mauritania, 2021",87,"Face_Neck",NA,NA
+"290","ID 510","Kébéa, Mauritania, 2021",87,"Lower_Limbs",72,82.7586206896552
+"291","ID 510","Kébéa, Mauritania, 2021",87,"Multiple_sites",NA,NA
+"292","ID 510","Kébéa, Mauritania, 2021",87,"Trunk",NA,NA
+"293","ID 510","Kébéa, Mauritania, 2021",87,"Unspecified",5,5.74712643678161
+"294","ID 510","Kébéa, Mauritania, 2021",87,"Upper_Limbs",8,9.19540229885057
+"295","ID 5105","Abbas, Sudan, 2018",300,"Buttocks_Groin",NA,NA
+"296","ID 5105","Abbas, Sudan, 2018",300,"Face_Neck",6,2
+"297","ID 5105","Abbas, Sudan, 2018",300,"Lower_Limbs",270,90
+"298","ID 5105","Abbas, Sudan, 2018",300,"Multiple_sites",NA,NA
+"299","ID 5105","Abbas, Sudan, 2018",300,"Trunk",NA,NA
+"300","ID 5105","Abbas, Sudan, 2018",300,"Unspecified",1,0.333333333333333
+"301","ID 5105","Abbas, Sudan, 2018",300,"Upper_Limbs",23,7.66666666666667
+"302","ID 5253","Fahal, Sudan, 2015",6792,"Buttocks_Groin",121,1.78150765606596
+"303","ID 5253","Fahal, Sudan, 2015",6792,"Face_Neck",53,0.780329799764429
+"304","ID 5253","Fahal, Sudan, 2015",6792,"Lower_Limbs",5723,84.2608951707892
+"305","ID 5253","Fahal, Sudan, 2015",6792,"Multiple_sites",141,2.07597173144876
+"306","ID 5253","Fahal, Sudan, 2015",6792,"Trunk",47,0.691990577149588
+"307","ID 5253","Fahal, Sudan, 2015",6792,"Unspecified",264,3.886925795053
+"308","ID 5253","Fahal, Sudan, 2015",6792,"Upper_Limbs",584,8.59835100117786
+"309","ID 5516","Kallel, Tunisia, 2004",13,"Buttocks_Groin",NA,NA
+"310","ID 5516","Kallel, Tunisia, 2004",13,"Face_Neck",1,7.69230769230769
+"311","ID 5516","Kallel, Tunisia, 2004",13,"Lower_Limbs",10,76.9230769230769
+"312","ID 5516","Kallel, Tunisia, 2004",13,"Multiple_sites",NA,NA
+"313","ID 5516","Kallel, Tunisia, 2004",13,"Trunk",NA,NA
+"314","ID 5516","Kallel, Tunisia, 2004",13,"Unspecified",NA,NA
+"315","ID 5516","Kallel, Tunisia, 2004",13,"Upper_Limbs",2,15.3846153846154
+"316","ID 5603","Castro, Brazil, 2008",27,"Buttocks_Groin",NA,NA
+"317","ID 5603","Castro, Brazil, 2008",27,"Face_Neck",NA,NA
+"318","ID 5603","Castro, Brazil, 2008",27,"Lower_Limbs",25,92.5925925925926
+"319","ID 5603","Castro, Brazil, 2008",27,"Multiple_sites",NA,NA
+"320","ID 5603","Castro, Brazil, 2008",27,"Trunk",NA,NA
+"321","ID 5603","Castro, Brazil, 2008",27,"Unspecified",NA,NA
+"322","ID 5603","Castro, Brazil, 2008",27,"Upper_Limbs",2,7.40740740740741
+"323","ID 5654","Hay, United Kingdom, 1982",43,"Buttocks_Groin",1,2.32558139534884
+"324","ID 5654","Hay, United Kingdom, 1982",43,"Face_Neck",2,4.65116279069767
+"325","ID 5654","Hay, United Kingdom, 1982",43,"Lower_Limbs",32,74.4186046511628
+"326","ID 5654","Hay, United Kingdom, 1982",43,"Multiple_sites",1,2.32558139534884
+"327","ID 5654","Hay, United Kingdom, 1982",43,"Trunk",NA,NA
+"328","ID 5654","Hay, United Kingdom, 1982",43,"Unspecified",3,6.97674418604651
+"329","ID 5654","Hay, United Kingdom, 1982",43,"Upper_Limbs",5,11.6279069767442
+"330","ID 5774","Ansari, India, 2023",38,"Buttocks_Groin",NA,NA
+"331","ID 5774","Ansari, India, 2023",38,"Face_Neck",NA,NA
+"332","ID 5774","Ansari, India, 2023",38,"Lower_Limbs",32,84.2105263157895
+"333","ID 5774","Ansari, India, 2023",38,"Multiple_sites",NA,NA
+"334","ID 5774","Ansari, India, 2023",38,"Trunk",NA,NA
+"335","ID 5774","Ansari, India, 2023",38,"Unspecified",5,13.1578947368421
+"336","ID 5774","Ansari, India, 2023",38,"Upper_Limbs",1,2.63157894736842
+"337","ID 5776","Elgallali, Tunisia, 2010",15,"Buttocks_Groin",NA,NA
+"338","ID 5776","Elgallali, Tunisia, 2010",15,"Face_Neck",NA,NA
+"339","ID 5776","Elgallali, Tunisia, 2010",15,"Lower_Limbs",14,93.3333333333333
+"340","ID 5776","Elgallali, Tunisia, 2010",15,"Multiple_sites",NA,NA
+"341","ID 5776","Elgallali, Tunisia, 2010",15,"Trunk",NA,NA
+"342","ID 5776","Elgallali, Tunisia, 2010",15,"Unspecified",NA,NA
+"343","ID 5776","Elgallali, Tunisia, 2010",15,"Upper_Limbs",1,6.66666666666667
+"344","ID 5783","Kaliswaran, India, 2003",25,"Buttocks_Groin",NA,NA
+"345","ID 5783","Kaliswaran, India, 2003",25,"Face_Neck",NA,NA
+"346","ID 5783","Kaliswaran, India, 2003",25,"Lower_Limbs",20,80
+"347","ID 5783","Kaliswaran, India, 2003",25,"Multiple_sites",NA,NA
+"348","ID 5783","Kaliswaran, India, 2003",25,"Trunk",1,4
+"349","ID 5783","Kaliswaran, India, 2003",25,"Unspecified",NA,NA
+"350","ID 5783","Kaliswaran, India, 2003",25,"Upper_Limbs",4,16
+"351","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Buttocks_Groin",NA,NA
+"352","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Face_Neck",74,1.88151538265955
+"353","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Lower_Limbs",2061,52.4027459954233
+"354","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Multiple_sites",149,3.78845664886855
+"355","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Trunk",675,17.162471395881
+"356","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Unspecified",664,16.882786676837
+"357","ID 5784","Lopez-Martinez, Mexico, 2013",3933,"Upper_Limbs",459,11.6704805491991
+"358","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Buttocks_Groin",33,37.9310344827586
+"359","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Face_Neck",3,3.44827586206897
+"360","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Lower_Limbs",13,14.9425287356322
+"361","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Multiple_sites",NA,NA
+"362","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Trunk",4,4.59770114942529
+"363","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Unspecified",24,27.5862068965517
+"364","ID 5785","Adoubryn, Côte d'Ivoire, 2008",87,"Upper_Limbs",10,11.4942528735632
+"365","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Buttocks_Groin",NA,NA
+"366","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Face_Neck",1,5
+"367","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Lower_Limbs",17,85
+"368","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Multiple_sites",NA,NA
+"369","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Trunk",1,5
+"370","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Unspecified",NA,NA
+"371","ID 5797","Czechowski, United Arab Emirates, 2001",20,"Upper_Limbs",1,5
+"372","ID 770","Bocarro, India, 1893",100,"Buttocks_Groin",NA,NA
+"373","ID 770","Bocarro, India, 1893",100,"Face_Neck",NA,NA
+"374","ID 770","Bocarro, India, 1893",100,"Lower_Limbs",97,97
+"375","ID 770","Bocarro, India, 1893",100,"Multiple_sites",NA,NA
+"376","ID 770","Bocarro, India, 1893",100,"Trunk",NA,NA
+"377","ID 770","Bocarro, India, 1893",100,"Unspecified",NA,NA
+"378","ID 770","Bocarro, India, 1893",100,"Upper_Limbs",3,3
+"379","ID 801","Aounallah, Tunisia, 2023",18,"Buttocks_Groin",1,5.55555555555556
+"380","ID 801","Aounallah, Tunisia, 2023",18,"Face_Neck",1,5.55555555555556
+"381","ID 801","Aounallah, Tunisia, 2023",18,"Lower_Limbs",15,83.3333333333333
+"382","ID 801","Aounallah, Tunisia, 2023",18,"Multiple_sites",NA,NA
+"383","ID 801","Aounallah, Tunisia, 2023",18,"Trunk",NA,NA
+"384","ID 801","Aounallah, Tunisia, 2023",18,"Unspecified",NA,NA
+"385","ID 801","Aounallah, Tunisia, 2023",18,"Upper_Limbs",1,5.55555555555556
+"386","ID 963","Estrada-Castañón, Mexico, 2019",113,"Buttocks_Groin",19,16.8141592920354
+"387","ID 963","Estrada-Castañón, Mexico, 2019",113,"Face_Neck",4,3.53982300884956
+"388","ID 963","Estrada-Castañón, Mexico, 2019",113,"Lower_Limbs",45,39.8230088495575
+"389","ID 963","Estrada-Castañón, Mexico, 2019",113,"Multiple_sites",NA,NA
+"390","ID 963","Estrada-Castañón, Mexico, 2019",113,"Trunk",23,20.353982300885
+"391","ID 963","Estrada-Castañón, Mexico, 2019",113,"Unspecified",NA,NA
+"392","ID 963","Estrada-Castañón, Mexico, 2019",113,"Upper_Limbs",22,19.4690265486726
+"393","ID2922",NA,54,"Buttocks_Groin",1,1.85185185185185
+"394","ID2922",NA,54,"Face_Neck",NA,NA
+"395","ID2922",NA,54,"Lower_Limbs",47,87.037037037037
+"396","ID2922",NA,54,"Multiple_sites",NA,NA
+"397","ID2922",NA,54,"Trunk",NA,NA
+"398","ID2922",NA,54,"Unspecified",NA,NA
+"399","ID2922",NA,54,"Upper_Limbs",6,11.1111111111111

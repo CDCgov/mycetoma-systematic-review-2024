@@ -1,0 +1,34 @@
+"","ID","Study_meta","Cured","Remission","Amputation","Not_Improved","Recurrence","Lost_to_Followup","Sum_Total_N","Total_N","check_values","Notes"
+"1","ID 5105","Abbas, Sudan, 2018",NA,NA,7,NA,142,0,149,300,FALSE,NA
+"2","ID 1249","Aboudi, Sudan, 2017",NA,NA,17,NA,NA,NA,17,100,FALSE,NA
+"3","ID 4018","Balabanoff, Bulgara, 1998",NA,NA,NA,NA,0,NA,0,18,FALSE,NA
+"4","ID 5603","Castro, Brazil, 2008",8,NA,1,0,NA,NA,9,27,FALSE,NA
+"5","ID 3081","Castro, Brazil, 1992",7,NA,1,NA,NA,NA,8,41,FALSE,NA
+"6","ID 136","Convit, Venezuela, 1959",NA,NA,NA,NA,0,NA,0,37,FALSE,NA
+"7","ID 3927","Daoud, Tunisia, 2005",3,NA,1,NA,NA,3,7,13,FALSE,NA
+"8","ID 5776","Elgallali N, Tunisia, 2010",NA,NA,1,NA,NA,NA,1,15,FALSE,NA
+"9","ID 5772",NA,NA,NA,NA,NA,0,NA,0,143,FALSE,NA
+"10","ID 445","Fahal, Sudan, 2014",32,NA,NA,NA,NA,NA,32,33,FALSE,NA
+"11","ID 5253","Fahal, Sudan, 2015",NA,NA,120,NA,248,NA,368,6792,FALSE,NA
+"12","ID 2946",NA,NA,NA,NA,NA,0,NA,0,5513,FALSE,NA
+"13","ID 5785",NA,NA,NA,NA,NA,0,NA,0,149,FALSE,NA
+"14","ID 5783","Kaliswaran, India, 2003",NA,11,NA,NA,NA,6,17,25,FALSE,NA
+"15","ID 951","Khatri, Yemen, 2002",NA,NA,1,NA,3,9,13,70,FALSE,"21 well controlled, 27 well improved"
+"16","ID 3443","Khatri, Yemen, 2021",4,NA,2,NA,7,NA,13,184,FALSE,NA
+"17","ID 3501","Kizera, Uganda, 2020",NA,NA,15,NA,NA,NA,15,249,FALSE,NA
+"18","ID 5770","Kunna, Sudan, 2020",NA,NA,3,NA,NA,0,3,389,FALSE,"the study reports traditional treatments these amputations were performed by traditional medicine pracitioner. There is no report of other outcomes in the study"
+"19","ID 1210","Luiz G. M, Brazil, 2008",8,NA,NA,NA,NA,NA,8,27,FALSE,"16  improved, not improved 2"
+"20","ID 4290","Mallick, Brazil, 2021",NA,NA,3,NA,NA,NA,3,12,FALSE,NA
+"21","ID 4424","Méndez-Tovar, Mexico, 2021",NA,NA,NA,NA,0,NA,0,36,FALSE,NA
+"22","ID 3140","Mufti, Saudi Arabia, 2015",NA,NA,8,NA,NA,NA,8,19,FALSE,NA
+"23","ID 3554","Musa, Sudan, 2022",66,NA,23,NA,171,NA,260,503,FALSE,NA
+"24","ID 1689","Negroni, Argentina, 2006",25,NA,6,NA,0,NA,31,76,FALSE,NA
+"25","ID 2922","Negroni, Argentina, 1998",18,NA,4,NA,9,7,38,54,FALSE,NA
+"26","ID 3458","Padhi, India, 2010",1,NA,1,NA,NA,NA,2,13,FALSE,NA
+"27","ID 4716","Sampaio, Brazil, 2017",11,NA,2,NA,4,NA,17,21,FALSE,NA
+"28","ID 5780","Sarr, Senegal, 2015",NA,NA,21,NA,6,NA,27,44,FALSE,NA
+"29","ID 3494","Siblany, Saudi Arabia, 1998",NA,NA,5,NA,19,NA,24,36,FALSE,NA
+"30","ID 3340","Sow, Senegal, 2020",79,NA,45,NA,7,NA,131,193,FALSE,NA
+"31","ID 1263","Sran, India, 1973",NA,NA,28,NA,13,NA,41,110,FALSE,NA
+"32","ID 2678","Traore, Mali, 2021",NA,NA,12,NA,NA,NA,12,19,FALSE,NA
+"33","ID 223","Zein, Sudan, 2012",379,NA,36,NA,NA,839,1254,1544,FALSE,NA

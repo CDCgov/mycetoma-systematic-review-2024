@@ -1,0 +1,74 @@
+"","ID","Study_meta","Country","Total_N","Total_study_population","Study_design","Tool_of_diagnosis","Age","Gender","Education","Residency","Occupation","Comorbidities","Severe_disease","Body_region","Outcomes","Treatment","Causative_Organism"
+"1","ID 2267","Ali et al. 2022","Sudan",160,160,"Cross sectional","Not mentioned",0,1,0,0,0,0,0,1,0,0,0
+"2","ID 801","Aounallah et al. 2023","Tunisia",18,18,"Retrospective observational","clinical, imaging, culture, and microscopic examination",0,1,0,0,1,0,0,1,1,1,1
+"3","ID 509","Kamalam et al. 1976","India",5,4103,"Prospective observational","clinical, microscopic examination, culture",1,1,0,0,0,0,0,1,0,0,1
+"4","ID 5105","Abbas et al. 2018","Sudan",300,300,"Not mentioned","clinical, microscopic examination and cytology",1,1,0,0,1,0,0,1,1,0,0
+"5","ID 4075","Abd El Bagi et al. 2003","Sudan",516,516,"Not mentioned","clinical, imaging, cytology and culture",0,1,0,0,0,0,0,0,0,0,0
+"6","ID 1249","Aboudi et al. 2017","Sudan",100,100,"Prospective descriptive","Not mentioned",0,1,0,0,1,0,1,1,1,1,0
+"7","ID 3734","Adoubryn et al. 2009","West Africa",46,85,"Retrospective analytical","clinical, culture, microscopic examination",0,1,0,0,1,0,1,1,0,0,1
+"8","ID 4884","Ali et al. 2009","Sudan",46,50,"Not mentioned","clinical, imaging, and histopathology",0,0,0,0,0,0,0,0,0,0,0
+"9","ID 5774","Ansari et al. 2023","India",38,38,"Retrospective observational","clinical, imaging, microscopic examination, culture and genetics",1,1,0,0,0,0,1,1,0,0,1
+"10","ID 456","Yousif et al. 2009","Sudan",230,240,"Prospective observational","microscopic examination",1,1,0,0,0,0,0,1,0,0,1
+"11","ID 1892","Bakhiet et al. 2018","Sudan",1032,1032,"Not mentioned","clinical and microscopic examination",0,1,0,0,1,0,0,0,0,0,1
+"12","ID 4018","Balabanoff et al. 1998","Bulgaria",18,18,"Not mentioned","clinical, imaging, microscopic examination and culture",0,1,0,0,0,0,0,1,0,0,1
+"13","ID 5273","Basher et al. 2021","Sudan",50,95,"Hospital based case control (pilot study)","clinical, genetic,culture and microscopic examination",1,1,0,0,0,0,0,0,0,0,0
+"14","ID 1203","Batalla et al. 2011","Morocco",12,12,"Retrospective observational","clinical, imaging, culture and microscopic examination",0,1,0,0,1,0,0,1,1,1,1
+"15","ID 770","Bocarro et al. 1893","India",100,100,"Not mentioned","Not mentioned",0,1,0,0,0,0,0,1,0,0,0
+"16","ID 3905","Bonifaz et al. 2014","Mexico",482,482,"Cross-sectional, single-center, with long-follow up","clinical, microscopic examination and culture",0,1,0,0,0,0,0,1,0,0,1
+"17","ID 5603","Castro et al. 2008","Brazil",27,27,"Not mentioned","clinical, imaging, culture and microscopic examination",0,1,0,0,1,0,1,1,1,1,1
+"18","ID 3081","Castro et al. 1992","Brazil",41,41,"Not mentioned","clinical, culture, histopathology",0,1,0,0,1,0,1,1,1,1,1
+"19","ID 5771","Colom et al. 2023","Kenya",58,60,"Cross sectional","clinical, microscopic examination, culture and genetics",0,1,0,0,0,0,0,0,0,0,1
+"20","ID 136","Convit et al. 1959","Venezuela",37,146,"Retrospective observational","Not mentioned",0,1,0,0,1,0,0,1,0,0,1
+"21","ID 2893","Correa et al. 2018","Mexico",174,174,"Cross sectional","clinical, culture, microscopic examination",0,1,0,0,1,1,0,1,0,0,1
+"22","ID 5797","Czechowski et al. 2001","United Arab Emirates",20,20,"Retrospective observational","clinical, histology, imaging",0,1,0,0,0,0,0,1,0,0,1
+"23","ID 5796","Lewall et al. 1985","Saudi Arabia",30,30,"Not mentioned","Not mentioned",0,1,0,0,0,0,0,0,0,0,0
+"24","ID 3927","Daoud et al. 2005","Tunisia",13,13,"Retrospective observational","clinical, imaging, microscopic examination, culture",1,1,0,1,0,0,1,1,1,1,1
+"25","ID 3486","Darre ́ et al. 2018","Togo",33,33,"Not mentioned","clinical, microscopic examination",1,1,0,0,1,0,1,1,0,0,1
+"26","ID 3886","Dharmshale et al. 2015","India",23,23,"Not mentioned","clinical, microscopic examination, culture",0,1,0,0,0,0,0,1,0,1,1
+"27","ID 1887","El Hag et al. 1994","Sudan",14,14,"Not mentioned","clinical, microscopic examination",1,1,0,0,0,0,0,1,0,0,1
+"28","ID 4072","EL Shamy et al. 2012","Sudan",42,42,"Prospective observational","clinical, imaging, microscopic examination, cytology, culture",1,1,0,0,0,0,1,1,0,0,1
+"29","ID 5776","Elgallali et al. 2010","Tunisia",15,15,"Not mentioned","clinical, microscopic examination, culture",1,1,0,1,0,0,0,1,1,1,1
+"30","ID 5772","Enbiale et al. 2023","Ethiopia",118,143,"Not mentioned","clinical, microscopic examination, culture",0,0,0,0,0,0,0,0,0,0,1
+"31","ID 963","Estrada-Castañón et al. 2019","Mexico",113,113,"Retrospective observational","clinical, imaging, culture, microscopic examination",0,1,0,0,1,0,0,1,0,1,1
+"32","ID 445","Fahal et al. 2014","Sudan",33,33,"Prospective, descriptive, community-based","histopathology, culture",1,1,0,1,1,0,0,1,1,1,1
+"33","ID 5253","Fahal et al. 2015","Sudan",6792,6792,"Cross sectional","clinical, imaging,serology, culture, microscopic examination",1,1,0,0,1,1,0,1,1,1,1
+"34","ID 3805","Ganawa et al. 2021","Sudan",594,594,"Retrospective observational","clinical, microscopic examination, culture",0,1,0,0,1,0,0,0,0,0,1
+"35","ID 2396","Guimara ̃es et al. 2003","Brazil",40,40,"Retrospective observational","culture, microscopic examination",0,1,0,0,0,0,0,1,0,0,1
+"36","ID 3423","Hashemi et al. 2005","Iran",62,62,"Not mentioned","Not mentioned",0,1,0,0,1,0,0,1,0,0,1
+"37","ID 2183","Hassan et al. 2022","Sudan",359,1436,"Population-based case-control","clinical, microscopic examination",1,1,1,1,1,0,0,1,0,0,0
+"38","ID 2946","Hassan et al. 2021","Sudan",6983,6983,"Retrospective observational","full coverage",0,0,0,0,0,0,0,0,0,0,1
+"39","ID 5654","Hay et al. 1982","United Kingdom",43,41,"Not mentioned","clinical, culture, serology, microscopic examination",0,1,0,0,0,0,0,1,0,0,1
+"40","ID 5516","Kallel et al. 2004","Tunisia",13,13,"Cross sectional","clinical, imaging, culture, microscopic examination",0,1,0,1,1,0,1,1,0,1,1
+"41","ID 5785","Adoubryn et al. 2008","Côte d'Ivoire",87,149,"Retrospective analytical","Not mentioned",0,1,0,0,0,0,0,1,0,0,1
+"42","ID 5783","Kaliswaran et al. 2003","India",25,25,"Not mentioned","clinical, microscopic examination, culture, imaging",0,1,0,0,0,0,0,1,1,1,1
+"43","ID 510","Kébéa et al. 2021","Mauritania",87,87,"Retrospective hospital-based","clinical, imaging, culture, microscopic examination",0,1,0,0,1,0,0,1,0,1,0
+"44","ID 951","Khatri et al. 2002","Yemen",70,70,"Prospective observational","clinical, imaging, microscopic examination",0,1,0,0,0,0,0,0,1,1,1
+"45","ID 3443","Khatri et al. 2021","Yemen",184,184,"Prospective observational","clinical, imaging, culture, microscopic examination",0,1,0,0,0,0,1,0,1,1,1
+"46","ID 3501","Kizera et al. 2020","Uganda",249,249,"Cross sectional","clinical, microscopic examination",0,1,0,0,0,0,1,1,1,0,1
+"47","ID 5770","Kunna et al. 2020","Sudan",389,389,"Cross sectional","Not mentioned",0,1,1,1,1,1,0,0,1,1,0
+"48","ID 1641","Lopez et al. 2023","Mexico",70,70,"Retrospective observational descriptive","clinical, culture, microscopic examination",0,1,0,0,1,0,0,1,0,0,1
+"49","ID 5784","Lopez-Martinez et al. 2013","Mexico",3933,3933,"Not mentioned","Not mentioned",0,1,0,0,1,0,0,1,0,0,1
+"50","ID 1648","Maiti et al. 2002","India",264,264,"Retrospective observational","clinical, culture, microscopic examination",0,1,0,0,1,0,0,1,0,0,1
+"51","ID 4290","Mallick et al. 2021","Brazil",12,12,"Observational","clinical, microscopic examination, culture",1,1,0,1,1,0,0,1,1,1,1
+"52","ID 1640","Maritinez et al. 1992","Mexico",2105,2105,"Retrospective observational","Not mentioned",0,1,0,0,1,0,0,1,0,0,1
+"53","ID 4424","Méndez-Tovar et al. 2021","Mexico",36,36,"Cross sectional","clinical, microscopic examination, culture",0,1,0,0,1,1,0,1,0,1,1
+"54","ID 3140","Mufti et al. 2015","Saudi Arabia",19,19,"Not mentioned","clinical, culture, microscopic examination",1,1,0,0,0,0,1,1,1,1,1
+"55","ID 3554","Musa et al. 2022","Sudan",503,503,"Cross sectional","clinical, culture, microscopic examination",0,1,0,0,1,0,0,1,1,1,1
+"56","ID 137","Ndiaye et al. 2011","Senegal",113,113,"Retrospective observational","clinical, microscopic examination, culture",0,1,0,0,1,0,0,1,0,0,1
+"57","ID 1689","Negroni et al. 2006","Argentina",76,76,"Not mentioned","clinical, culture, microscopic examination",0,1,0,0,0,0,0,1,1,1,1
+"58","ID 2922","Negroni et al. 1998","Argentina",54,54,"Retrospective observational","histology, microscopic examination",0,1,0,0,0,0,0,0,1,1,1
+"59","ID 3458","Padhi et al. 2010","India",13,13,"Retrospective observational","clinical, imaging, culture, microscopic examination",1,1,0,0,1,0,1,1,1,1,1
+"60","ID 475","Azraga et al. 2011","Sudan",26,229,"Comparative descriptive cross-sectional","Not mentioned",0,1,1,1,1,0,0,1,0,0,0
+"61","ID 4716","Sampaio et al. 2017","Brazil",21,21,"Not mentioned","clinical, imaging, microscopic examination",0,1,0,0,0,1,1,1,1,1,1
+"62","ID 5780","Sarr et al. 2015","Senegal",44,44,"Not mentioned","Not mentioned",0,1,0,0,0,0,0,0,1,0,0
+"63","ID 3864","Sawatkar et al. 2019","India",11,11,"Retrospective observational","clinical, imaging, microscopic examination, culture",1,1,0,1,1,0,1,1,0,1,1
+"64","ID 2780","Sear et al. 2022","Venezuela",16,16,"Retrospective descriptive","clinical, culture, microscopic examination",1,1,0,0,1,0,0,1,0,0,1
+"65","ID 3494","Siblany et al. 1998","Saudi Arabia",36,36,"Retrospective","clinical imaging, microscopic examination",0,1,0,0,1,0,1,1,1,1,1
+"66","ID 5230","Siddig et al. 2016","Sudan",50,50,"Cross sectional","clinical, microscopic examination, cytology",1,1,0,0,0,0,0,0,0,0,1
+"67","ID 5411","Siddig et al. 2022","Sudan",72,80,"Cross-sectional, prospective, hospital-based","clinical, imaging, genetic culture, microscopic examination",0,0,0,0,0,0,0,0,0,0,1
+"68","ID 3340","Sow et al. 2020","Senegal",193,193,"Retrospective observational descriptive","clinical, imaging, culture, microscopic examination",1,1,0,0,1,0,1,1,1,1,1
+"69","ID 1263","Sran et al. 1973","India",110,110,"Retrospective observational","microscopic examination",0,0,0,0,1,0,1,1,1,1,0
+"70","ID 2678","Traore et al. 2021","Mali",19,19,"Retrospective observational","clinical, imaging, microscopic examination",0,1,0,0,1,0,1,1,1,1,1
+"71","ID 4423","Venugopal et al. 1975","India",90,90,"Not mentioned","clinical, microscopic examination, culture",0,1,0,0,0,0,0,1,0,0,1
+"72","ID 1709","Venugopal et al. 1990","Saudi Arabia",23,23,"Retrospective observational","clinical, culture, microscopic examination",0,1,0,0,0,0,0,1,0,0,1
+"73","ID 223","Zein et al. 2012","Sudan",1544,1544,"Prospective observational","clinical, microscopic examination, culture, imaging",0,1,0,0,0,0,0,0,1,0,0

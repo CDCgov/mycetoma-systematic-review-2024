@@ -1,0 +1,241 @@
+"","ID","Study_meta","Total_N","Treatment_classification","Treatment_type","n","percent"
+"1","ID 801","Aounallah, Tunisia, 2023",18,"Pharmaceutical","Pharmaceutical_treatment",18,100
+"2","ID 801","Aounallah, Tunisia, 2023",18,"Surgical","Surgical_debridement",NA,NA
+"3","ID 801","Aounallah, Tunisia, 2023",18,"Surgical","Surgical_excision",9,50
+"4","ID 801","Aounallah, Tunisia, 2023",18,"Surgical","Surgical_amputation",2,11.1111111111111
+"5","ID 801","Aounallah, Tunisia, 2023",18,"Surgical","Surgical_resection",NA,NA
+"6","ID 801","Aounallah, Tunisia, 2023",18,"Non-traditional","Religious",NA,NA
+"7","ID 801","Aounallah, Tunisia, 2023",18,"Non-traditional","Herbal_traditional",NA,NA
+"8","ID 801","Aounallah, Tunisia, 2023",18,"Not reported","Not_reported",NA,NA
+"9","ID 1203","Batalla, Morocco, 2011",12,"Pharmaceutical","Pharmaceutical_treatment",12,100
+"10","ID 1203","Batalla, Morocco, 2011",12,"Surgical","Surgical_debridement",NA,NA
+"11","ID 1203","Batalla, Morocco, 2011",12,"Surgical","Surgical_excision",1,8.33333333333333
+"12","ID 1203","Batalla, Morocco, 2011",12,"Surgical","Surgical_amputation",1,8.33333333333333
+"13","ID 1203","Batalla, Morocco, 2011",12,"Surgical","Surgical_resection",NA,NA
+"14","ID 1203","Batalla, Morocco, 2011",12,"Non-traditional","Religious",NA,NA
+"15","ID 1203","Batalla, Morocco, 2011",12,"Non-traditional","Herbal_traditional",NA,NA
+"16","ID 1203","Batalla, Morocco, 2011",12,"Not reported","Not_reported",NA,NA
+"17","ID 5603","Castro, Brazil, 2008",27,"Pharmaceutical","Pharmaceutical_treatment",27,100
+"18","ID 5603","Castro, Brazil, 2008",27,"Surgical","Surgical_debridement",NA,NA
+"19","ID 5603","Castro, Brazil, 2008",27,"Surgical","Surgical_excision",NA,NA
+"20","ID 5603","Castro, Brazil, 2008",27,"Surgical","Surgical_amputation",NA,NA
+"21","ID 5603","Castro, Brazil, 2008",27,"Surgical","Surgical_resection",7,25.9259259259259
+"22","ID 5603","Castro, Brazil, 2008",27,"Non-traditional","Religious",NA,NA
+"23","ID 5603","Castro, Brazil, 2008",27,"Non-traditional","Herbal_traditional",NA,NA
+"24","ID 5603","Castro, Brazil, 2008",27,"Not reported","Not_reported",NA,NA
+"25","ID 3081","Castro, Brazil, 1992",41,"Pharmaceutical","Pharmaceutical_treatment",41,100
+"26","ID 3081","Castro, Brazil, 1992",41,"Surgical","Surgical_debridement",NA,NA
+"27","ID 3081","Castro, Brazil, 1992",41,"Surgical","Surgical_excision",NA,NA
+"28","ID 3081","Castro, Brazil, 1992",41,"Surgical","Surgical_amputation",1,2.4390243902439
+"29","ID 3081","Castro, Brazil, 1992",41,"Surgical","Surgical_resection",NA,NA
+"30","ID 3081","Castro, Brazil, 1992",41,"Non-traditional","Religious",NA,NA
+"31","ID 3081","Castro, Brazil, 1992",41,"Non-traditional","Herbal_traditional",NA,NA
+"32","ID 3081","Castro, Brazil, 1992",41,"Not reported","Not_reported",NA,NA
+"33","ID 3927","Daoud, Tunisia, 2005",13,"Pharmaceutical","Pharmaceutical_treatment",13,100
+"34","ID 3927","Daoud, Tunisia, 2005",13,"Surgical","Surgical_debridement",NA,NA
+"35","ID 3927","Daoud, Tunisia, 2005",13,"Surgical","Surgical_excision",4,30.7692307692308
+"36","ID 3927","Daoud, Tunisia, 2005",13,"Surgical","Surgical_amputation",1,7.69230769230769
+"37","ID 3927","Daoud, Tunisia, 2005",13,"Surgical","Surgical_resection",NA,NA
+"38","ID 3927","Daoud, Tunisia, 2005",13,"Non-traditional","Religious",NA,NA
+"39","ID 3927","Daoud, Tunisia, 2005",13,"Non-traditional","Herbal_traditional",NA,NA
+"40","ID 3927","Daoud, Tunisia, 2005",13,"Not reported","Not_reported",NA,NA
+"41","ID 3886","Dharmshale, India, 2015",23,"Pharmaceutical","Pharmaceutical_treatment",23,100
+"42","ID 3886","Dharmshale, India, 2015",23,"Surgical","Surgical_debridement",NA,NA
+"43","ID 3886","Dharmshale, India, 2015",23,"Surgical","Surgical_excision",NA,NA
+"44","ID 3886","Dharmshale, India, 2015",23,"Surgical","Surgical_amputation",NA,NA
+"45","ID 3886","Dharmshale, India, 2015",23,"Surgical","Surgical_resection",NA,NA
+"46","ID 3886","Dharmshale, India, 2015",23,"Non-traditional","Religious",NA,NA
+"47","ID 3886","Dharmshale, India, 2015",23,"Non-traditional","Herbal_traditional",NA,NA
+"48","ID 3886","Dharmshale, India, 2015",23,"Not reported","Not_reported",NA,NA
+"49","ID 5776","Elgallali, Tunisia, 2010",15,"Pharmaceutical","Pharmaceutical_treatment",15,100
+"50","ID 5776","Elgallali, Tunisia, 2010",15,"Surgical","Surgical_debridement",NA,NA
+"51","ID 5776","Elgallali, Tunisia, 2010",15,"Surgical","Surgical_excision",NA,NA
+"52","ID 5776","Elgallali, Tunisia, 2010",15,"Surgical","Surgical_amputation",NA,NA
+"53","ID 5776","Elgallali, Tunisia, 2010",15,"Surgical","Surgical_resection",NA,NA
+"54","ID 5776","Elgallali, Tunisia, 2010",15,"Non-traditional","Religious",NA,NA
+"55","ID 5776","Elgallali, Tunisia, 2010",15,"Non-traditional","Herbal_traditional",NA,NA
+"56","ID 5776","Elgallali, Tunisia, 2010",15,"Not reported","Not_reported",NA,NA
+"57","ID 963","Estrada-Castañón, Mexico, 2019",113,"Pharmaceutical","Pharmaceutical_treatment",113,100
+"58","ID 963","Estrada-Castañón, Mexico, 2019",113,"Surgical","Surgical_debridement",NA,NA
+"59","ID 963","Estrada-Castañón, Mexico, 2019",113,"Surgical","Surgical_excision",NA,NA
+"60","ID 963","Estrada-Castañón, Mexico, 2019",113,"Surgical","Surgical_amputation",NA,NA
+"61","ID 963","Estrada-Castañón, Mexico, 2019",113,"Surgical","Surgical_resection",NA,NA
+"62","ID 963","Estrada-Castañón, Mexico, 2019",113,"Non-traditional","Religious",NA,NA
+"63","ID 963","Estrada-Castañón, Mexico, 2019",113,"Non-traditional","Herbal_traditional",NA,NA
+"64","ID 963","Estrada-Castañón, Mexico, 2019",113,"Not reported","Not_reported",NA,NA
+"65","ID 445","Fahal, Sudan, 2014",33,"Pharmaceutical","Pharmaceutical_treatment",NA,NA
+"66","ID 445","Fahal, Sudan, 2014",33,"Surgical","Surgical_debridement",NA,NA
+"67","ID 445","Fahal, Sudan, 2014",33,"Surgical","Surgical_excision",32,96.969696969697
+"68","ID 445","Fahal, Sudan, 2014",33,"Surgical","Surgical_amputation",NA,NA
+"69","ID 445","Fahal, Sudan, 2014",33,"Surgical","Surgical_resection",NA,NA
+"70","ID 445","Fahal, Sudan, 2014",33,"Non-traditional","Religious",NA,NA
+"71","ID 445","Fahal, Sudan, 2014",33,"Non-traditional","Herbal_traditional",NA,NA
+"72","ID 445","Fahal, Sudan, 2014",33,"Not reported","Not_reported",1,3.03030303030303
+"73","ID 5253","Fahal, Sudan, 2015",6792,"Pharmaceutical","Pharmaceutical_treatment",6792,100
+"74","ID 5253","Fahal, Sudan, 2015",6792,"Surgical","Surgical_debridement",NA,NA
+"75","ID 5253","Fahal, Sudan, 2015",6792,"Surgical","Surgical_excision",NA,NA
+"76","ID 5253","Fahal, Sudan, 2015",6792,"Surgical","Surgical_amputation",120,1.76678445229682
+"77","ID 5253","Fahal, Sudan, 2015",6792,"Surgical","Surgical_resection",NA,NA
+"78","ID 5253","Fahal, Sudan, 2015",6792,"Non-traditional","Religious",NA,NA
+"79","ID 5253","Fahal, Sudan, 2015",6792,"Non-traditional","Herbal_traditional",NA,NA
+"80","ID 5253","Fahal, Sudan, 2015",6792,"Not reported","Not_reported",NA,NA
+"81","ID 5516","Kallel, Tunisia, 2004",13,"Pharmaceutical","Pharmaceutical_treatment",13,100
+"82","ID 5516","Kallel, Tunisia, 2004",13,"Surgical","Surgical_debridement",NA,NA
+"83","ID 5516","Kallel, Tunisia, 2004",13,"Surgical","Surgical_excision",NA,NA
+"84","ID 5516","Kallel, Tunisia, 2004",13,"Surgical","Surgical_amputation",NA,NA
+"85","ID 5516","Kallel, Tunisia, 2004",13,"Surgical","Surgical_resection",NA,NA
+"86","ID 5516","Kallel, Tunisia, 2004",13,"Non-traditional","Religious",NA,NA
+"87","ID 5516","Kallel, Tunisia, 2004",13,"Non-traditional","Herbal_traditional",NA,NA
+"88","ID 5516","Kallel, Tunisia, 2004",13,"Not reported","Not_reported",NA,NA
+"89","ID 5783","Kaliswaran, India, 2003",25,"Pharmaceutical","Pharmaceutical_treatment",25,100
+"90","ID 5783","Kaliswaran, India, 2003",25,"Surgical","Surgical_debridement",NA,NA
+"91","ID 5783","Kaliswaran, India, 2003",25,"Surgical","Surgical_excision",1,4
+"92","ID 5783","Kaliswaran, India, 2003",25,"Surgical","Surgical_amputation",NA,NA
+"93","ID 5783","Kaliswaran, India, 2003",25,"Surgical","Surgical_resection",NA,NA
+"94","ID 5783","Kaliswaran, India, 2003",25,"Non-traditional","Religious",NA,NA
+"95","ID 5783","Kaliswaran, India, 2003",25,"Non-traditional","Herbal_traditional",NA,NA
+"96","ID 5783","Kaliswaran, India, 2003",25,"Not reported","Not_reported",NA,NA
+"97","ID 510","Kébéa, Mauritania, 2021",87,"Pharmaceutical","Pharmaceutical_treatment",32,36.7816091954023
+"98","ID 510","Kébéa, Mauritania, 2021",87,"Surgical","Surgical_debridement",NA,NA
+"99","ID 510","Kébéa, Mauritania, 2021",87,"Surgical","Surgical_excision",29,33.3333333333333
+"100","ID 510","Kébéa, Mauritania, 2021",87,"Surgical","Surgical_amputation",18,20.6896551724138
+"101","ID 510","Kébéa, Mauritania, 2021",87,"Surgical","Surgical_resection",NA,NA
+"102","ID 510","Kébéa, Mauritania, 2021",87,"Non-traditional","Religious",NA,NA
+"103","ID 510","Kébéa, Mauritania, 2021",87,"Non-traditional","Herbal_traditional",NA,NA
+"104","ID 510","Kébéa, Mauritania, 2021",87,"Not reported","Not_reported",NA,NA
+"105","ID 951","Khatri, Yemen, 2002",70,"Pharmaceutical","Pharmaceutical_treatment",62,88.5714285714286
+"106","ID 951","Khatri, Yemen, 2002",70,"Surgical","Surgical_debridement",NA,NA
+"107","ID 951","Khatri, Yemen, 2002",70,"Surgical","Surgical_excision",24,34.2857142857143
+"108","ID 951","Khatri, Yemen, 2002",70,"Surgical","Surgical_amputation",4,5.71428571428571
+"109","ID 951","Khatri, Yemen, 2002",70,"Surgical","Surgical_resection",NA,NA
+"110","ID 951","Khatri, Yemen, 2002",70,"Non-traditional","Religious",NA,NA
+"111","ID 951","Khatri, Yemen, 2002",70,"Non-traditional","Herbal_traditional",NA,NA
+"112","ID 951","Khatri, Yemen, 2002",70,"Not reported","Not_reported",NA,NA
+"113","ID 3443","Khatri, Yemen, 2021",184,"Pharmaceutical","Pharmaceutical_treatment",148,80.4347826086957
+"114","ID 3443","Khatri, Yemen, 2021",184,"Surgical","Surgical_debridement",NA,NA
+"115","ID 3443","Khatri, Yemen, 2021",184,"Surgical","Surgical_excision",30,16.304347826087
+"116","ID 3443","Khatri, Yemen, 2021",184,"Surgical","Surgical_amputation",2,1.08695652173913
+"117","ID 3443","Khatri, Yemen, 2021",184,"Surgical","Surgical_resection",NA,NA
+"118","ID 3443","Khatri, Yemen, 2021",184,"Non-traditional","Religious",NA,NA
+"119","ID 3443","Khatri, Yemen, 2021",184,"Non-traditional","Herbal_traditional",NA,NA
+"120","ID 3443","Khatri, Yemen, 2021",184,"Not reported","Not_reported",NA,NA
+"121","ID 5770","Kunna, Sudan, 2020",389,"Pharmaceutical","Pharmaceutical_treatment",381,97.9434447300771
+"122","ID 5770","Kunna, Sudan, 2020",389,"Surgical","Surgical_debridement",NA,NA
+"123","ID 5770","Kunna, Sudan, 2020",389,"Surgical","Surgical_excision",9,2.31362467866324
+"124","ID 5770","Kunna, Sudan, 2020",389,"Surgical","Surgical_amputation",3,0.77120822622108
+"125","ID 5770","Kunna, Sudan, 2020",389,"Surgical","Surgical_resection",NA,NA
+"126","ID 5770","Kunna, Sudan, 2020",389,"Non-traditional","Religious",199,51.1568123393316
+"127","ID 5770","Kunna, Sudan, 2020",389,"Non-traditional","Herbal_traditional",276,70.9511568123393
+"128","ID 5770","Kunna, Sudan, 2020",389,"Not reported","Not_reported",NA,NA
+"129","ID 4290","Mallick, Brazil, 2021",12,"Pharmaceutical","Pharmaceutical_treatment",12,100
+"130","ID 4290","Mallick, Brazil, 2021",12,"Surgical","Surgical_debridement",NA,NA
+"131","ID 4290","Mallick, Brazil, 2021",12,"Surgical","Surgical_excision",NA,NA
+"132","ID 4290","Mallick, Brazil, 2021",12,"Surgical","Surgical_amputation",3,25
+"133","ID 4290","Mallick, Brazil, 2021",12,"Surgical","Surgical_resection",NA,NA
+"134","ID 4290","Mallick, Brazil, 2021",12,"Non-traditional","Religious",NA,NA
+"135","ID 4290","Mallick, Brazil, 2021",12,"Non-traditional","Herbal_traditional",NA,NA
+"136","ID 4290","Mallick, Brazil, 2021",12,"Not reported","Not_reported",NA,NA
+"137","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Pharmaceutical","Pharmaceutical_treatment",36,100
+"138","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Surgical","Surgical_debridement",NA,NA
+"139","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Surgical","Surgical_excision",NA,NA
+"140","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Surgical","Surgical_amputation",NA,NA
+"141","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Surgical","Surgical_resection",NA,NA
+"142","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Non-traditional","Religious",NA,NA
+"143","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Non-traditional","Herbal_traditional",NA,NA
+"144","ID 4424","Méndez-Tovar, Mexico, 2021",36,"Not reported","Not_reported",NA,NA
+"145","ID 3140","Mufti, Saudi Arabia, 2015",19,"Pharmaceutical","Pharmaceutical_treatment",19,100
+"146","ID 3140","Mufti, Saudi Arabia, 2015",19,"Surgical","Surgical_debridement",NA,NA
+"147","ID 3140","Mufti, Saudi Arabia, 2015",19,"Surgical","Surgical_excision",NA,NA
+"148","ID 3140","Mufti, Saudi Arabia, 2015",19,"Surgical","Surgical_amputation",NA,NA
+"149","ID 3140","Mufti, Saudi Arabia, 2015",19,"Surgical","Surgical_resection",NA,NA
+"150","ID 3140","Mufti, Saudi Arabia, 2015",19,"Non-traditional","Religious",NA,NA
+"151","ID 3140","Mufti, Saudi Arabia, 2015",19,"Non-traditional","Herbal_traditional",NA,NA
+"152","ID 3140","Mufti, Saudi Arabia, 2015",19,"Not reported","Not_reported",NA,NA
+"153","ID 3554","Musa, Sudan, 2022",503,"Pharmaceutical","Pharmaceutical_treatment",502,99.8011928429423
+"154","ID 3554","Musa, Sudan, 2022",503,"Surgical","Surgical_debridement",NA,NA
+"155","ID 3554","Musa, Sudan, 2022",503,"Surgical","Surgical_excision",144,28.6282306163022
+"156","ID 3554","Musa, Sudan, 2022",503,"Surgical","Surgical_amputation",23,4.57256461232604
+"157","ID 3554","Musa, Sudan, 2022",503,"Surgical","Surgical_resection",NA,NA
+"158","ID 3554","Musa, Sudan, 2022",503,"Non-traditional","Religious",NA,NA
+"159","ID 3554","Musa, Sudan, 2022",503,"Non-traditional","Herbal_traditional",NA,NA
+"160","ID 3554","Musa, Sudan, 2022",503,"Not reported","Not_reported",NA,NA
+"161","ID 1689","Negroni, Argentina, 2006",76,"Pharmaceutical","Pharmaceutical_treatment",76,100
+"162","ID 1689","Negroni, Argentina, 2006",76,"Surgical","Surgical_debridement",NA,NA
+"163","ID 1689","Negroni, Argentina, 2006",76,"Surgical","Surgical_excision",NA,NA
+"164","ID 1689","Negroni, Argentina, 2006",76,"Surgical","Surgical_amputation",6,7.89473684210526
+"165","ID 1689","Negroni, Argentina, 2006",76,"Surgical","Surgical_resection",NA,NA
+"166","ID 1689","Negroni, Argentina, 2006",76,"Non-traditional","Religious",NA,NA
+"167","ID 1689","Negroni, Argentina, 2006",76,"Non-traditional","Herbal_traditional",NA,NA
+"168","ID 1689","Negroni, Argentina, 2006",76,"Not reported","Not_reported",NA,NA
+"169","ID 2922","Negroni, Argentina, 1998",54,"Pharmaceutical","Pharmaceutical_treatment",48,88.8888888888889
+"170","ID 2922","Negroni, Argentina, 1998",54,"Surgical","Surgical_debridement",NA,NA
+"171","ID 2922","Negroni, Argentina, 1998",54,"Surgical","Surgical_excision",20,37.037037037037
+"172","ID 2922","Negroni, Argentina, 1998",54,"Surgical","Surgical_amputation",4,7.40740740740741
+"173","ID 2922","Negroni, Argentina, 1998",54,"Surgical","Surgical_resection",NA,NA
+"174","ID 2922","Negroni, Argentina, 1998",54,"Non-traditional","Religious",NA,NA
+"175","ID 2922","Negroni, Argentina, 1998",54,"Non-traditional","Herbal_traditional",NA,NA
+"176","ID 2922","Negroni, Argentina, 1998",54,"Not reported","Not_reported",NA,NA
+"177","ID 3458","Padhi, India, 2010",13,"Pharmaceutical","Pharmaceutical_treatment",13,100
+"178","ID 3458","Padhi, India, 2010",13,"Surgical","Surgical_debridement",10,76.9230769230769
+"179","ID 3458","Padhi, India, 2010",13,"Surgical","Surgical_excision",NA,NA
+"180","ID 3458","Padhi, India, 2010",13,"Surgical","Surgical_amputation",NA,NA
+"181","ID 3458","Padhi, India, 2010",13,"Surgical","Surgical_resection",NA,NA
+"182","ID 3458","Padhi, India, 2010",13,"Non-traditional","Religious",NA,NA
+"183","ID 3458","Padhi, India, 2010",13,"Non-traditional","Herbal_traditional",NA,NA
+"184","ID 3458","Padhi, India, 2010",13,"Not reported","Not_reported",NA,NA
+"185","ID 4716","Sampaio, Brazil, 2017",21,"Pharmaceutical","Pharmaceutical_treatment",20,95.2380952380952
+"186","ID 4716","Sampaio, Brazil, 2017",21,"Surgical","Surgical_debridement",NA,NA
+"187","ID 4716","Sampaio, Brazil, 2017",21,"Surgical","Surgical_excision",10,47.6190476190476
+"188","ID 4716","Sampaio, Brazil, 2017",21,"Surgical","Surgical_amputation",2,9.52380952380952
+"189","ID 4716","Sampaio, Brazil, 2017",21,"Surgical","Surgical_resection",NA,NA
+"190","ID 4716","Sampaio, Brazil, 2017",21,"Non-traditional","Religious",NA,NA
+"191","ID 4716","Sampaio, Brazil, 2017",21,"Non-traditional","Herbal_traditional",NA,NA
+"192","ID 4716","Sampaio, Brazil, 2017",21,"Not reported","Not_reported",NA,NA
+"193","ID 3864","Sawatkar, India, 2019",11,"Pharmaceutical","Pharmaceutical_treatment",11,100
+"194","ID 3864","Sawatkar, India, 2019",11,"Surgical","Surgical_debridement",NA,NA
+"195","ID 3864","Sawatkar, India, 2019",11,"Surgical","Surgical_excision",NA,NA
+"196","ID 3864","Sawatkar, India, 2019",11,"Surgical","Surgical_amputation",NA,NA
+"197","ID 3864","Sawatkar, India, 2019",11,"Surgical","Surgical_resection",NA,NA
+"198","ID 3864","Sawatkar, India, 2019",11,"Non-traditional","Religious",NA,NA
+"199","ID 3864","Sawatkar, India, 2019",11,"Non-traditional","Herbal_traditional",NA,NA
+"200","ID 3864","Sawatkar, India, 2019",11,"Not reported","Not_reported",NA,NA
+"201","ID 3494","Siblany, Saudi Arabia, 1998",36,"Pharmaceutical","Pharmaceutical_treatment",16,44.4444444444444
+"202","ID 3494","Siblany, Saudi Arabia, 1998",36,"Surgical","Surgical_debridement",NA,NA
+"203","ID 3494","Siblany, Saudi Arabia, 1998",36,"Surgical","Surgical_excision",31,86.1111111111111
+"204","ID 3494","Siblany, Saudi Arabia, 1998",36,"Surgical","Surgical_amputation",5,13.8888888888889
+"205","ID 3494","Siblany, Saudi Arabia, 1998",36,"Surgical","Surgical_resection",NA,NA
+"206","ID 3494","Siblany, Saudi Arabia, 1998",36,"Non-traditional","Religious",NA,NA
+"207","ID 3494","Siblany, Saudi Arabia, 1998",36,"Non-traditional","Herbal_traditional",NA,NA
+"208","ID 3494","Siblany, Saudi Arabia, 1998",36,"Not reported","Not_reported",NA,NA
+"209","ID 1263","Sran, India, 1973",110,"Pharmaceutical","Pharmaceutical_treatment",NA,NA
+"210","ID 1263","Sran, India, 1973",110,"Surgical","Surgical_debridement",NA,NA
+"211","ID 1263","Sran, India, 1973",110,"Surgical","Surgical_excision",68,61.8181818181818
+"212","ID 1263","Sran, India, 1973",110,"Surgical","Surgical_amputation",38,34.5454545454545
+"213","ID 1263","Sran, India, 1973",110,"Surgical","Surgical_resection",NA,NA
+"214","ID 1263","Sran, India, 1973",110,"Non-traditional","Religious",NA,NA
+"215","ID 1263","Sran, India, 1973",110,"Non-traditional","Herbal_traditional",NA,NA
+"216","ID 1263","Sran, India, 1973",110,"Not reported","Not_reported",4,3.63636363636364
+"217","ID 3340","Sow, Senegal, 2020",193,"Pharmaceutical","Pharmaceutical_treatment",193,100
+"218","ID 3340","Sow, Senegal, 2020",193,"Surgical","Surgical_debridement",NA,NA
+"219","ID 3340","Sow, Senegal, 2020",193,"Surgical","Surgical_excision",NA,NA
+"220","ID 3340","Sow, Senegal, 2020",193,"Surgical","Surgical_amputation",45,23.3160621761658
+"221","ID 3340","Sow, Senegal, 2020",193,"Surgical","Surgical_resection",54,27.979274611399
+"222","ID 3340","Sow, Senegal, 2020",193,"Non-traditional","Religious",NA,NA
+"223","ID 3340","Sow, Senegal, 2020",193,"Non-traditional","Herbal_traditional",156,80.8290155440415
+"224","ID 3340","Sow, Senegal, 2020",193,"Not reported","Not_reported",NA,NA
+"225","ID 1249","Aboudi, Sudan, 2017",100,"Pharmaceutical","Pharmaceutical_treatment",99,99
+"226","ID 1249","Aboudi, Sudan, 2017",100,"Surgical","Surgical_debridement",NA,NA
+"227","ID 1249","Aboudi, Sudan, 2017",100,"Surgical","Surgical_excision",81,81
+"228","ID 1249","Aboudi, Sudan, 2017",100,"Surgical","Surgical_amputation",17,17
+"229","ID 1249","Aboudi, Sudan, 2017",100,"Surgical","Surgical_resection",NA,NA
+"230","ID 1249","Aboudi, Sudan, 2017",100,"Non-traditional","Religious",NA,NA
+"231","ID 1249","Aboudi, Sudan, 2017",100,"Non-traditional","Herbal_traditional",NA,NA
+"232","ID 1249","Aboudi, Sudan, 2017",100,"Not reported","Not_reported",NA,NA
+"233","ID 2678","Traore, Mali, 2021",19,"Pharmaceutical","Pharmaceutical_treatment",9,47.3684210526316
+"234","ID 2678","Traore, Mali, 2021",19,"Surgical","Surgical_debridement",NA,NA
+"235","ID 2678","Traore, Mali, 2021",19,"Surgical","Surgical_excision",6,31.5789473684211
+"236","ID 2678","Traore, Mali, 2021",19,"Surgical","Surgical_amputation",12,63.1578947368421
+"237","ID 2678","Traore, Mali, 2021",19,"Surgical","Surgical_resection",NA,NA
+"238","ID 2678","Traore, Mali, 2021",19,"Non-traditional","Religious",NA,NA
+"239","ID 2678","Traore, Mali, 2021",19,"Non-traditional","Herbal_traditional",10,52.6315789473684
+"240","ID 2678","Traore, Mali, 2021",19,"Not reported","Not_reported",NA,NA
