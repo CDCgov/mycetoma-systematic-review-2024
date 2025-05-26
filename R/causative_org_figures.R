@@ -44,6 +44,9 @@ length(unique(Causative_Organisms_Taxonomy_clean$ID)) # 58 studies included
 
 # May need to exclude the study that only indicates West Africa rather than individual countries, unless we group by region
 
+
+
+
 # Table S2
 # get summmed totals of mycetoma patients per country
 mycetoma_pt_totals_per_country <- Causative_Organisms_Taxonomy_clean %>%
@@ -65,6 +68,7 @@ mycetoma_pt_totals_spp <- Causative_Organisms_Taxonomy_clean %>%
   filter(Organism_n > 0)
 write.csv(mycetoma_pt_totals_spp, here("data_summary/Patient_totals_per_spp.csv"))
 
+
 # get summed totals of number of patients per causative organism and per genus
 mycetoma_pt_totals_genus <- Causative_Organisms_Taxonomy_clean %>%
   group_by(Etiology, Genus_name) %>%
@@ -72,6 +76,16 @@ mycetoma_pt_totals_genus <- Causative_Organisms_Taxonomy_clean %>%
   filter(Organism_n > 0)
 write.csv(mycetoma_pt_totals_genus, here("data_summary/Patient_totals_per_genus.csv"))
 
+
+
+genus_groups <- unique(mycetoma_pt_totals_genus$Genus_name)
+# remove the unidentified and not reported categories from the list of genera
+genus_groups <- c("Actinomadura", "Nocardia", "Streptomyces", "Acremonium", "Aspergillus",           
+                  "Cladophialophora", "Cladosporium",  "Exophiala", "Falcifomispora", "Fusarium",            
+                  "Madurella", "Medicopsis", "Microsporum", "Neoscytalidium", "Nigrograna",        
+                  "Penicillium", "Phaeoacremonium", "Sarocladium", "Scedosporium", "Trematosphaeria",        
+                  "Trichophyton", "Xenoacremonium")
+length(genus_groups)
 
 
 # get total N of number of patients per causative organism species and country
@@ -87,7 +101,7 @@ country_genus_totals <- Causative_Organisms_Taxonomy_clean %>%
   filter(Genus_name %in% genus_groups) %>%
   group_by(Country_clean, Taxonomic_group, Etiology, Genus_name) %>%
   summarize(Organism_n = sum(Organism_n, na.rm = T)) %>%
-  full_join(.,mycetoma_pt_toals_per_country) %>%
+  full_join(.,mycetoma_pt_totals_per_country) %>%
   mutate(prop = Organism_n/Total_N)
 write.csv(country_genus_totals, here("data_summary/Patient_totals_per_genus_and_country.csv"))
 
@@ -103,14 +117,16 @@ country_genus_totals_n <- country_genus_totals %>%
 country_etiology_totals <- Causative_Organisms_Taxonomy_clean %>%
   group_by(Country_clean, Taxonomic_group, Etiology) %>%
   summarize(Organism_n = sum(Organism_n, na.rm = T)) %>%
-  full_join(.,mycetoma_pt_toals_per_country) %>%
+  full_join(.,mycetoma_pt_totals_per_country) %>%
   mutate(prop = Organism_n/Total_N)
 write.csv(country_etiology_totals, here("data_summary/Patient_totals_per_etiology_and_country.csv"))
 
+# Table 3 in manuscript
 # pivot data frame wide to work with the scatterpie package
 country_etiology_totals_n <- country_etiology_totals %>%
   pivot_wider(id_cols = Country_clean, names_from = Etiology, values_from = c(Organism_n)) %>%
   ungroup()
+write.csv(country_etiology_totals_n, here("data_summary/Patient_totals_per_etiology_and_country_wide.csv"), row.names = FALSE)
 
 
 
@@ -200,7 +216,7 @@ ggsave(here("figures/manuscript_figs/Fig5.tiff"), plot = pie_scale_mycetoma_per_
 length(unique(country_genus_totals$Genus_name))
 
 
-genus_groups <- unique(mycetoma_pt_toals_genus$Genus_name)
+genus_groups <- unique(mycetoma_pt_totals_genus$Genus_name)
 # remove the unidentified and not reported categories from the list of genera
 genus_groups <- c("Actinomadura", "Nocardia", "Streptomyces", "Acremonium", "Aspergillus",           
                   "Cladophialophora", "Cladosporium",  "Exophiala", "Falcifomispora", "Fusarium",            
