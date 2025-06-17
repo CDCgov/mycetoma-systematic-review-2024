@@ -13,9 +13,10 @@
 
 ## Overview
 
-This repository houses code for analyses for a paper exploring the global sociodemographic and clinical characteristics of patients affected by mycetoma and characteristing the geographic patterns of causative organisms of mycetoma. This manuscript is submitted to PloS Neglected Tropical Diseases as Salah et al, and is the product of a collaboration between the Mycetoma Research Center in Sudan and the United States Centers for Disease Control and Prevention. 
+This repository houses code for analyses for a paper exploring the global sociodemographic and clinical characteristics of patients affected by mycetoma and characteristing the geographic patterns of causative organisms of mycetoma. This manuscript is accepted for publication at PloS Neglected Tropical Diseases as Salah et al, and is the product of a collaboration between the Mycetoma Research Center in Sudan and the United States Centers for Disease Control and Prevention. 
 
 All analyses were done in R 4.0.0. Code written by Michelle Fearon Scales, [@mlfearon](https://github.com/mlfearon), utg5@cdc.gov, (CDC/NCEZID/DFWED/MDB).
+[![DOI](https://zenodo.org/badge/964011032.svg)](https://doi.org/10.5281/zenodo.15684055)
 
 ### Source Data
  - All data are stored in the data folders:
